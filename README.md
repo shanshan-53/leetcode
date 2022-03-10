@@ -6,6 +6,7 @@ List
 * (Easy)   1534. Count Good Triplets `Java`
 * (Easy)   1588. Sum of All Odd Length Subarrays `Java` `C#`
 * (Easy)   2006. Count Number of Pairs With Absolute Difference K `Java` `C#`
+* (Easy)   2037. Minimum Number of Moves to Seat Everyone `Java` `C#`
 
 #### String
 * (Easy)   1614. Maximum Nesting Depth of the Parentheses `Java` `C#`
@@ -29,6 +30,8 @@ Record
 * 2022/03/04 (Fri.)
 	* (Easy)   1588. Sum of All Odd Length Subarrays
 	* (Easy)   1614. Maximum Nesting Depth of the Parentheses
+* 2022/03/05 (Sat.)
+	* (Easy)   2037. Minimum Number of Moves to Seat Everyone
 * 2022/03/09 (Wed.)
 	* (Mediun) 797. All Paths From Source to Target
 	* (Medium) 1877. Minimize Maximum Pair Sum in Array
@@ -43,3 +46,4 @@ Record
 	* (Easy)   1588. Sum of All Odd Length Subarrays
 * 2022/03/10 (Thu.)
 	* (Easy)   1614. Maximum Nesting Depth of the Parentheses
+	* (Easy)   2037. Minimum Number of Moves to Seat Everyone
