@@ -20,6 +20,7 @@ List
 
 #### String
 * (Easy)   1614. Maximum Nesting Depth of the Parentheses `Java` `C#`
+* (Easy)   1844. Replace All Digits with Characters `Java`
 
 #### Math
 * (Medium) 2079. Watering Plants `Java`
@@ -58,6 +59,7 @@ Record
 	* (Medium) 1817. Finding the Users Active Minutes
 	* (Easy)   2089. Find Target Indices After Sorting Array
 	* (Medium) 1382. Balance a Binary Search Tree
+	* (Easy)   1844. Replace All Digits with Characters
 
 #### C#
 
