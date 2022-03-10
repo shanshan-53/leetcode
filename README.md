@@ -28,8 +28,10 @@ List
 * (Medium) 1877. Minimize Maximum Pair Sum in Array `Java`
 
 #### Graph
-* (Medium) 797. All Paths From Source to Target `Java`
+* (Medium) 0797. All Paths From Source to Target `Java`
 
+#### Binary Search Tree
+* (Medium) 1382. Balance a Binary Search Tree `Java`
 
 Record
 -
@@ -53,6 +55,7 @@ Record
 	* (Easy)   1534. Count Good Triplets
 	* (Medium) 1817. Finding the Users Active Minutes
 	* (Easy)   2089. Find Target Indices After Sorting Array
+	* (Medium) 1382. Balance a Binary Search Tree
 
 #### C#
 
