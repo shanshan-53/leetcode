@@ -23,6 +23,7 @@ List
 
 #### Math
 * (Medium) 2079. Watering Plants `Java`
+* (Easy)   1688. Count of Matches in Tournament `Java` `C#`
 
 #### Two Pointer
 * (Medium) 1877. Minimize Maximum Pair Sum in Array `Java`
@@ -47,6 +48,7 @@ Record
 * 2022/03/06 (Sun.)
 	* (Medium) 1409. Queries on a Permutation With Key
 	* (Easy)   1290. Convert Binary Number in a Linked List to Integer
+	* (Easy)   1688. Count of Matches in Tournament
 * 2022/03/09 (Wed.)
 	* (Mediun) 797. All Paths From Source to Target
 	* (Medium) 1877. Minimize Maximum Pair Sum in Array
@@ -67,3 +69,4 @@ Record
 	* (Easy)   2037. Minimum Number of Moves to Seat Everyone
 	* (Medium) 1409. Queries on a Permutation With Key
 	* (Easy)   1290. Convert Binary Number in a Linked List to Integer
+	* (Easy)   1688. Count of Matches in Tournament
