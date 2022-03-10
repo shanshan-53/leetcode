@@ -3,6 +3,7 @@ Leetcode
 List
 -
 #### Array
+* (Easy)   1534. Count Good Triplets `Java`
 * (Easy)   1588. Sum of All Odd Length Subarrays `Java` `C#`
 * (Easy)   2006. Count Number of Pairs With Absolute Difference K `Java` `C#`
 
@@ -33,6 +34,7 @@ Record
 	* (Medium) 1877. Minimize Maximum Pair Sum in Array
 * 2022/03/10 (Thu.)
 	* (Medium) 2079. Watering Plants
+	* (Easy)   1534. Count Good Triplets
 
 #### C#
 
