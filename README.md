@@ -7,6 +7,7 @@ List
 * (Easy)   1588. Sum of All Odd Length Subarrays `Java` `C#`
 * (Easy)   2006. Count Number of Pairs With Absolute Difference K `Java` `C#`
 * (Easy)   2037. Minimum Number of Moves to Seat Everyone `Java` `C#`
+* (Easy)   2089. Find Target Indices After Sorting Array `Java`
 
 #### List
 * (Medium) 1409. Queries on a Permutation With Key `Java` `C#`
@@ -47,6 +48,7 @@ Record
 	* (Medium) 2079. Watering Plants
 	* (Easy)   1534. Count Good Triplets
 	* (Medium) 1817. Finding the Users Active Minutes
+	* (Easy)   2089. Find Target Indices After Sorting Array
 
 #### C#
 
