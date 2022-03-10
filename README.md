@@ -12,6 +12,9 @@ List
 #### List
 * (Medium) 1409. Queries on a Permutation With Key `Java` `C#`
 
+#### Linked List
+* (Easy)   1290. Convert Binary Number in a Linked List to Integer `Java` `C#`
+
 #### Hash Table
 * (Medium) 1817. Finding the Users Active Minutes `Java`
 
@@ -41,6 +44,7 @@ Record
 	* (Easy)   2037. Minimum Number of Moves to Seat Everyone
 * 2022/03/06 (Sun.)
 	* (Medium) 1409. Queries on a Permutation With Key
+	* (Easy)   1290. Convert Binary Number in a Linked List to Integer
 * 2022/03/09 (Wed.)
 	* (Mediun) 797. All Paths From Source to Target
 	* (Medium) 1877. Minimize Maximum Pair Sum in Array
@@ -59,3 +63,4 @@ Record
 	* (Easy)   1614. Maximum Nesting Depth of the Parentheses
 	* (Easy)   2037. Minimum Number of Moves to Seat Everyone
 	* (Medium) 1409. Queries on a Permutation With Key
+	* (Easy)   1290. Convert Binary Number in a Linked List to Integer
