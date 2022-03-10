@@ -8,6 +8,9 @@ List
 * (Easy)   2006. Count Number of Pairs With Absolute Difference K `Java` `C#`
 * (Easy)   2037. Minimum Number of Moves to Seat Everyone `Java` `C#`
 
+#### Hash Table
+* (Medium) 1817. Finding the Users Active Minutes `Java`
+
 #### String
 * (Easy)   1614. Maximum Nesting Depth of the Parentheses `Java` `C#`
 
@@ -38,6 +41,7 @@ Record
 * 2022/03/10 (Thu.)
 	* (Medium) 2079. Watering Plants
 	* (Easy)   1534. Count Good Triplets
+	* (Medium) 1817. Finding the Users Active Minutes
 
 #### C#
 
