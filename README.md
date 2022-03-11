@@ -22,6 +22,7 @@ List
 
 #### String
 * (Easy)   1614. Maximum Nesting Depth of the Parentheses `Java` `C#`
+* (Easy)   1662. Check If Two String Arrays are Equivalent `Java` `C#`
 * (Easy)   1844. Replace All Digits with Characters `Java`
 * (Easy)   2108. Find First Palindromic String in the Array `Java`
 
@@ -57,6 +58,7 @@ Record
 	* (Easy)   1290. Convert Binary Number in a Linked List to Integer
 	* (Easy)   1688. Count of Matches in Tournament
 	* (Medium) 2130. Maximum Twin Sum of a Linked List
+	* (Easy)   1662. Check If Two String Arrays are Equivalent
 * 2022/03/09 (Wed.)
 	* (Mediun) 797. All Paths From Source to Target
 	* (Medium) 1877. Minimize Maximum Pair Sum in Array
@@ -86,7 +88,7 @@ Record
 	* (Easy)   1688. Count of Matches in Tournament
 * 2022/03/11 (Fri.)
 	* (Medium) 2130. Maximum Twin Sum of a Linked List
-
+	* (Easy)   1662. Check If Two String Arrays are Equivalent
 
 #### C++
 
