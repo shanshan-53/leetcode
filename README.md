@@ -6,6 +6,7 @@ List
 * (Easy)   1534. Count Good Triplets `Java`
 * (Easy)   1588. Sum of All Odd Length Subarrays `Java` `C#`
 * (Easy)   1920. Build Array from Permutation `Java` `C#` `C++`
+* (Easy)   1929. Concatenation of Array `Java` `C#` `C++`
 * (Easy)   2006. Count Number of Pairs With Absolute Difference K `Java` `C#`
 * (Easy)   2037. Minimum Number of Moves to Seat Everyone `Java` `C#`
 * (Easy)   2089. Find Target Indices After Sorting Array `Java`
@@ -47,6 +48,7 @@ Record
 
 * 2022/02/09 (Wed.)
 	* (Easy)   1920. Build Array from Permutation
+	* (Easy)   1929. Concatenation of Array
 * 2022/03/03 (Thu.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 * 2022/03/04 (Fri.)
@@ -79,6 +81,7 @@ Record
 
 * 2022/03/02 (Wed.)
 	* (Easy)   1920. Build Array from Permutation
+	* (Easy)   1929. Concatenation of Array
 * 2022/03/09 (Wed.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Easy)   1588. Sum of All Odd Length Subarrays
@@ -96,3 +99,4 @@ Record
 
 * 2022/03/11 (Fri.)
 	* (Easy)   1920. Build Array from Permutation
+	* (Easy)   1929. Concatenation of Array
