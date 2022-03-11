@@ -22,6 +22,7 @@ List
 #### String
 * (Easy)   1614. Maximum Nesting Depth of the Parentheses `Java` `C#`
 * (Easy)   1844. Replace All Digits with Characters `Java`
+* (Easy)   2108. Find First Palindromic String in the Array `Java`
 
 #### Math
 * (Easy)   1688. Count of Matches in Tournament `Java` `C#`
@@ -65,6 +66,7 @@ Record
 	* (Easy)   1844. Replace All Digits with Characters
 * 2022/03/11 (Fri.)
 	* (Medium) 1008. Construct Binary Search Tree from Preorder Traversal
+	* (Easy)   2108. Find First Palindromic String in the Array
 
 #### C#
 
