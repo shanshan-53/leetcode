@@ -9,6 +9,7 @@ List
 * (Easy)   2006. Count Number of Pairs With Absolute Difference K `Java` `C#`
 * (Easy)   2037. Minimum Number of Moves to Seat Everyone `Java` `C#`
 * (Easy)   2089. Find Target Indices After Sorting Array `Java`
+* (Easy)   2176. Count Equal and Divisible Pairs in an Array `Java`
 
 #### List
 * (Medium) 1409. Queries on a Permutation With Key `Java` `C#`
@@ -72,6 +73,7 @@ Record
 * 2022/03/11 (Fri.)
 	* (Medium) 1008. Construct Binary Search Tree from Preorder Traversal
 	* (Easy)   2108. Find First Palindromic String in the Array
+	* (Easy)   2176. Count Equal and Divisible Pairs in an Array
 
 #### C#
 
