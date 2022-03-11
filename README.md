@@ -24,6 +24,7 @@ List
 * (Medium) 1817. Finding the Users Active Minutes `Java`
 
 #### String
+* (Easy)   0804. Unique Morse Code Words `Java`
 * (Easy)   1614. Maximum Nesting Depth of the Parentheses `Java` `C#`
 * (Easy)   1662. Check If Two String Arrays are Equivalent `Java` `C#`
 * (Easy)   1844. Replace All Digits with Characters `Java`
@@ -78,6 +79,7 @@ Record
 	* (Medium) 1008. Construct Binary Search Tree from Preorder Traversal
 	* (Easy)   2108. Find First Palindromic String in the Array
 	* (Easy)   2176. Count Equal and Divisible Pairs in an Array
+	* (Easy)   0804. Unique Morse Code Words
 
 #### C#
 
