@@ -23,6 +23,7 @@ List
 
 #### Hash Table
 * (Medium) 1817. Finding the Users Active Minutes `Java`
+* (Easy)   2103. Rings and Rods `Java` `C#`
 
 #### String
 * (Easy)   0804. Unique Morse Code Words `Java`
@@ -67,6 +68,8 @@ Record
 	* (Medium) 2130. Maximum Twin Sum of a Linked List
 	* (Easy)   1662. Check If Two String Arrays are Equivalent
 	* (Easy)   2149. Rearrange Array Elements by Sign
+* 2022/03/07 (Mon.)
+	* (Easy)   2103. Rings and Rods
 * 2022/03/09 (Wed.)
 	* (Mediun) 797. All Paths From Source to Target
 	* (Medium) 1877. Minimize Maximum Pair Sum in Array
@@ -102,6 +105,7 @@ Record
 	* (Medium) 2130. Maximum Twin Sum of a Linked List
 	* (Easy)   1662. Check If Two String Arrays are Equivalent
 	* (Easy)   2149. Rearrange Array Elements by Sign
+	* (Easy)   2103. Rings and Rods
 
 #### C++
 
