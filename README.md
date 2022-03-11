@@ -24,8 +24,8 @@ List
 * (Easy)   1844. Replace All Digits with Characters `Java`
 
 #### Math
-* (Medium) 2079. Watering Plants `Java`
 * (Easy)   1688. Count of Matches in Tournament `Java` `C#`
+* (Medium) 2079. Watering Plants `Java`
 
 #### Two Pointer
 * (Medium) 1877. Minimize Maximum Pair Sum in Array `Java`
@@ -34,6 +34,7 @@ List
 * (Medium) 0797. All Paths From Source to Target `Java`
 
 #### Binary Search Tree
+* (Medium) 1008. Construct Binary Search Tree from Preorder Traversal `Java`
 * (Medium) 1382. Balance a Binary Search Tree `Java`
 
 Record
@@ -62,6 +63,8 @@ Record
 	* (Easy)   2089. Find Target Indices After Sorting Array
 	* (Medium) 1382. Balance a Binary Search Tree
 	* (Easy)   1844. Replace All Digits with Characters
+* 2022/03/11 (Fri.)
+	* (Medium) 1008. Construct Binary Search Tree from Preorder Traversal
 
 #### C#
 
