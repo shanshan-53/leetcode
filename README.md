@@ -6,6 +6,7 @@ List
 * (Easy)   1480. Running Sum of 1d Array `Java` `C#` `C++`
 * (Easy)   1534. Count Good Triplets `Java`
 * (Easy)   1588. Sum of All Odd Length Subarrays `Java` `C#`
+* (Easy)   1672. Richest Customer Wealth `Java` `C#` `C++`
 * (Easy)   1920. Build Array from Permutation `Java` `C#` `C++`
 * (Easy)   1929. Concatenation of Array `Java` `C#` `C++`
 * (Easy)   2006. Count Number of Pairs With Absolute Difference K `Java` `C#`
@@ -54,6 +55,7 @@ Record
 	* (Easy)   1920. Build Array from Permutation
 	* (Easy)   1929. Concatenation of Array
 	* (Easy)   1480. Running Sum of 1d Array
+	* (Easy)   1672. Richest Customer Wealth
 * 2022/03/03 (Thu.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 * 2022/03/04 (Fri.)
@@ -92,6 +94,7 @@ Record
 	* (Easy)   1920. Build Array from Permutation
 	* (Easy)   1929. Concatenation of Array
 	* (Easy)   1480. Running Sum of 1d Array
+	* (Easy)   1672. Richest Customer Wealth
 * 2022/03/09 (Wed.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Easy)   1588. Sum of All Odd Length Subarrays
@@ -113,3 +116,5 @@ Record
 	* (Easy)   1920. Build Array from Permutation
 	* (Easy)   1929. Concatenation of Array
 	* (Easy)   1480. Running Sum of 1d Array
+* 2022/03/12 (Sat.)
+	* (Easy)   1672. Richest Customer Wealth
