@@ -10,6 +10,7 @@ List
 * (Easy)   1920. Build Array from Permutation `Java` `C#` `C++`
 * (Easy)   1929. Concatenation of Array `Java` `C#` `C++`
 * (Easy)   2006. Count Number of Pairs With Absolute Difference K `Java` `C#`
+* (Easy)   2011. Final Value of Variable After Performing Operations `Java` `C#` `C++`
 * (Easy)   2037. Minimum Number of Moves to Seat Everyone `Java` `C#`
 * (Easy)   2089. Find Target Indices After Sorting Array `Java`
 * (Easy)   2149. Rearrange Array Elements by Sign `Java` `C#`
@@ -56,6 +57,7 @@ Record
 	* (Easy)   1929. Concatenation of Array
 	* (Easy)   1480. Running Sum of 1d Array
 	* (Easy)   1672. Richest Customer Wealth
+	* (Easy)   2011. Final Value of Variable After Performing Operations
 * 2022/03/03 (Thu.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 * 2022/03/04 (Fri.)
@@ -95,6 +97,7 @@ Record
 	* (Easy)   1929. Concatenation of Array
 	* (Easy)   1480. Running Sum of 1d Array
 	* (Easy)   1672. Richest Customer Wealth
+	* (Easy)   2011. Final Value of Variable After Performing Operations
 * 2022/03/09 (Wed.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Easy)   1588. Sum of All Odd Length Subarrays
@@ -118,3 +121,4 @@ Record
 	* (Easy)   1480. Running Sum of 1d Array
 * 2022/03/12 (Sat.)
 	* (Easy)   1672. Richest Customer Wealth
+	* (Easy)   2011. Final Value of Variable After Performing Operations
