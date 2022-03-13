@@ -15,6 +15,7 @@ List
 * (Easy)   2089. Find Target Indices After Sorting Array `Java`
 * (Easy)   2114. Maximum Number of Words Found in Sentences `Java` `C#` `C++`
 * (Easy)   2149. Rearrange Array Elements by Sign `Java` `C#`
+* (Medium) 2161. Partition Array According to Given Pivot `Java` `C#`
 * (Easy)   2176. Count Equal and Divisible Pairs in an Array `Java`
 
 #### List
@@ -76,6 +77,7 @@ Record
 	* (Easy)   2149. Rearrange Array Elements by Sign
 * 2022/03/07 (Mon.)
 	* (Easy)   2103. Rings and Rods
+	* (Medium) 2161. Partition Array According to Given Pivot
 * 2022/03/09 (Wed.)
 	* (Mediun) 797. All Paths From Source to Target
 	* (Medium) 1877. Minimize Maximum Pair Sum in Array
@@ -115,6 +117,8 @@ Record
 	* (Easy)   1662. Check If Two String Arrays are Equivalent
 	* (Easy)   2149. Rearrange Array Elements by Sign
 	* (Easy)   2103. Rings and Rods
+* 2022/03/13 (Sun.)
+	* (Medium) 2161. Partition Array According to Given Pivot
 
 #### C++
 
