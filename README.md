@@ -35,6 +35,7 @@ List
 * (Easy)   1108. Defanging an IP Address `Java` `C#` `C++`
 * (Easy)   1614. Maximum Nesting Depth of the Parentheses `Java` `C#`
 * (Easy)   1662. Check If Two String Arrays are Equivalent `Java` `C#`
+* (Easy)   1684. Count the Number of Consistent Strings `Java` `C#`
 * (Easy)   1844. Replace All Digits with Characters `Java`
 * (Easy)   2108. Find First Palindromic String in the Array `Java`
 
@@ -78,6 +79,7 @@ Record
 	* (Medium) 2130. Maximum Twin Sum of a Linked List
 	* (Easy)   1662. Check If Two String Arrays are Equivalent
 	* (Easy)   2149. Rearrange Array Elements by Sign
+	* (Easy)   1684. Count the Number of Consistent Strings
 * 2022/03/07 (Mon.)
 	* (Easy)   2103. Rings and Rods
 	* (Medium) 2161. Partition Array According to Given Pivot
@@ -125,6 +127,7 @@ Record
 	* (Easy)   2103. Rings and Rods
 * 2022/03/13 (Sun.)
 	* (Medium) 2161. Partition Array According to Given Pivot
+	* (Easy)   1684. Count the Number of Consistent Strings
 
 #### C++
 
