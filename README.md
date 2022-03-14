@@ -31,6 +31,7 @@ List
 
 #### String
 * (Easy)   0804. Unique Morse Code Words `Java`
+* (Easy)   1108. Defanging an IP Address `Java` `C#` `C++`
 * (Easy)   1614. Maximum Nesting Depth of the Parentheses `Java` `C#`
 * (Easy)   1662. Check If Two String Arrays are Equivalent `Java` `C#`
 * (Easy)   1844. Replace All Digits with Characters `Java`
@@ -61,6 +62,7 @@ Record
 	* (Easy)   1672. Richest Customer Wealth
 	* (Easy)   2011. Final Value of Variable After Performing Operations
 	* (Easy)   2114. Maximum Number of Words Found in Sentences
+	* (Easy)   1108. Defanging an IP Address
 * 2022/03/03 (Thu.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 * 2022/03/04 (Fri.)
@@ -103,6 +105,7 @@ Record
 	* (Easy)   1672. Richest Customer Wealth
 	* (Easy)   2011. Final Value of Variable After Performing Operations
 	* (Easy)   2114. Maximum Number of Words Found in Sentences
+	* (Easy)   1108. Defanging an IP Address
 * 2022/03/09 (Wed.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Easy)   1588. Sum of All Odd Length Subarrays
@@ -131,3 +134,5 @@ Record
 	* (Easy)   2011. Final Value of Variable After Performing Operations
 * 2022/03/13 (Sun.)
 	* (Easy)   2114. Maximum Number of Words Found in Sentences
+* 2022/03 14 (Mon.
+	* (Easy)   1108. Defanging an IP Address
