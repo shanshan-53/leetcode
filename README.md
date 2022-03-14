@@ -31,6 +31,7 @@ List
 
 #### String
 * (Easy)   0804. Unique Morse Code Words `Java`
+* (Easy)   1021. Remove Outermost Parentheses `Java`
 * (Easy)   1108. Defanging an IP Address `Java` `C#` `C++`
 * (Easy)   1614. Maximum Nesting Depth of the Parentheses `Java` `C#`
 * (Easy)   1662. Check If Two String Arrays are Equivalent `Java` `C#`
@@ -95,6 +96,8 @@ Record
 	* (Easy)   2108. Find First Palindromic String in the Array
 	* (Easy)   2176. Count Equal and Divisible Pairs in an Array
 	* (Easy)   0804. Unique Morse Code Words
+* 2022/03/13 (Sun.)
+	1021. Remove Outermost Parentheses
 
 #### C#
 
