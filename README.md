@@ -51,6 +51,7 @@ List
 
 #### Binary Search Tree
 * (Medium) 1008. Construct Binary Search Tree from Preorder Traversal `Java`
+* (Medium) 1305. All Elements in Two Binary Search Trees `Java`
 * (Medium) 1382. Balance a Binary Search Tree `Java`
 
 Record
@@ -99,7 +100,9 @@ Record
 	* (Easy)   2176. Count Equal and Divisible Pairs in an Array
 	* (Easy)   0804. Unique Morse Code Words
 * 2022/03/13 (Sun.)
-	1021. Remove Outermost Parentheses
+	* (Easy)   1021. Remove Outermost Parentheses
+* 2022/03/14 (Mon.)
+	* (Medium) 1305. All Elements in Two Binary Search Trees
 
 #### C#
 
