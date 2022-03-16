@@ -40,6 +40,7 @@ List
 * (Easy)   1662. Check If Two String Arrays are Equivalent `Java` `C#`
 * (Easy)   1684. Count the Number of Consistent Strings `Java` `C#`
 * (Easy)   1844. Replace All Digits with Characters `Java`
+* (Easy)   1967. Number of Strings That Appear as Substrings in Word `Java`
 * (Easy)   2108. Find First Palindromic String in the Array `Java`
 
 #### Math
@@ -117,6 +118,9 @@ Record
 	* (Easy)   1021. Remove Outermost Parentheses
 * 2022/03/14 (Mon.)
 	* (Medium) 1305. All Elements in Two Binary Search Trees
+* 2022/03/16 (Wed.)
+	* (Easy)   0832. Flipping an Image
+	* (Easy)   1967. Number of Strings That Appear as Substrings in Word
 
 #### C#
 
@@ -151,7 +155,6 @@ Record
 * 2022/03/15 (Tue.)
 	* (Easy)   1832. Check if the Sentence Is Pangram
 * 2022/03/16 (Wed.)
-	* (Easy)   0832. Flipping an Image
 	* (Medium) 1329. Sort the Matrix Diagonally
 
 #### C++
