@@ -49,6 +49,9 @@ List
 #### Two Pointer
 * (Medium) 1877. Minimize Maximum Pair Sum in Array `Java`
 
+#### Sorting
+* (Medium) 1329. Sort the Matrix Diagonally `Java` `C#`
+
 #### Graph
 * (Medium) 0797. All Paths From Source to Target `Java`
 
@@ -94,6 +97,7 @@ Record
 	* (Easy)   2103. Rings and Rods
 	* (Medium) 2161. Partition Array According to Given Pivot
 	* (Easy)   1832. Check if the Sentence Is Pangram
+	* (Medium) 1329. Sort the Matrix Diagonally
 * 2022/03/09 (Wed.)
 	* (Mediun) 797. All Paths From Source to Target
 	* (Medium) 1877. Minimize Maximum Pair Sum in Array
@@ -148,7 +152,7 @@ Record
 	* (Easy)   1832. Check if the Sentence Is Pangram
 * 2022/03/16 (Wed.)
 	* (Easy)   0832. Flipping an Image
-
+	* (Medium) 1329. Sort the Matrix Diagonally
 
 #### C++
 
