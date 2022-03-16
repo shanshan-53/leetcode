@@ -126,6 +126,7 @@ Record
 * 2022/03/16 (Wed.)
 	* (Easy)   0832. Flipping an Image
 	* (Easy)   1967. Number of Strings That Appear as Substrings in Word
+	* (Easy)   1266. Minimum Time Visiting All Points
 
 #### C#
 
