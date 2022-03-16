@@ -6,6 +6,7 @@ List
 * (Easy)   0832. Flipping an Image `Java`
 * (Easy)   1470. Shuffle the Array `Java` `C#` `C++`
 * (Easy)   1480. Running Sum of 1d Array `Java` `C#` `C++`
+* (Easy)   1512. Number of Good Pairs `Java` `C#` `C++`
 * (Easy)   1534. Count Good Triplets `Java`
 * (Easy)   1588. Sum of All Odd Length Subarrays `Java` `C#`
 * (Easy)   1672. Richest Customer Wealth `Java` `C#` `C++`
@@ -77,6 +78,7 @@ Record
 	* (Easy)   2114. Maximum Number of Words Found in Sentences
 	* (Easy)   1108. Defanging an IP Address
 	* (Easy)   1470. Shuffle the Array
+	* (Easy)   1512. Number of Good Pairs
 * 2022/02/23 (Wed.)
 	* (Medium) 1476. Subrectangle Queries
 * 2022/03/03 (Thu.)
@@ -135,6 +137,7 @@ Record
 * 2022/03/03 (Thu.)
 	* (Easy)   1470. Shuffle the Array
 	* (Medium) 1476. Subrectangle Queries
+	* (Easy)   1512. Number of Good Pairs
 * 2022/03/09 (Wed.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Easy)   1588. Sum of All Odd Length Subarrays
@@ -173,4 +176,4 @@ Record
 	* (Easy)   1470. Shuffle the Array
 * 2022/03/16 (Wed.)
 	* (Medium) 1476. Subrectangle Queries
-
+	* (Easy)   1512. Number of Good Pairs
