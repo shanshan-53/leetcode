@@ -45,6 +45,7 @@ List
 * (Easy)   2108. Find First Palindromic String in the Array `Java`
 
 #### Math
+* (Easy)   1266. Minimum Time Visiting All Points `Java`
 * (Easy)   1688. Count of Matches in Tournament `Java` `C#`
 * (Medium) 2079. Watering Plants `Java`
 
