@@ -28,6 +28,7 @@ List
 
 #### Hash Table
 * (Medium) 1817. Finding the Users Active Minutes `Java`
+* (Easy)   1832. Check if the Sentence Is Pangram `Java` `C#`
 * (Easy)   2103. Rings and Rods `Java` `C#`
 
 #### String
@@ -86,6 +87,7 @@ Record
 * 2022/03/07 (Mon.)
 	* (Easy)   2103. Rings and Rods
 	* (Medium) 2161. Partition Array According to Given Pivot
+	* (Easy)   1832. Check if the Sentence Is Pangram
 * 2022/03/09 (Wed.)
 	* (Mediun) 797. All Paths From Source to Target
 	* (Medium) 1877. Minimize Maximum Pair Sum in Array
@@ -135,6 +137,8 @@ Record
 * 2022/03/13 (Sun.)
 	* (Medium) 2161. Partition Array According to Given Pivot
 	* (Easy)   1684. Count the Number of Consistent Strings
+* 2022/03/15 (Tue.)
+        * (Easy)   1832. Check if the Sentence Is Pangram
 
 #### C++
 
@@ -147,7 +151,7 @@ Record
 	* (Easy)   2011. Final Value of Variable After Performing Operations
 * 2022/03/13 (Sun.)
 	* (Easy)   2114. Maximum Number of Words Found in Sentences
-* 2022/03 14 (Mon.)
+* 2022/03/14 (Mon.)
 	* (Easy)   1108. Defanging an IP Address
 	* (Easy)   1470. Shuffle the Array
 
