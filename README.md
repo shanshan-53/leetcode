@@ -57,6 +57,9 @@ List
 * (Medium) 1305. All Elements in Two Binary Search Trees `Java`
 * (Medium) 1382. Balance a Binary Search Tree `Java`
 
+#### Design
+* (Medium) 1476. Subrectangle Queries `Java` `C#` `C++`
+
 Record
 -
 #### Java
@@ -70,6 +73,8 @@ Record
 	* (Easy)   2114. Maximum Number of Words Found in Sentences
 	* (Easy)   1108. Defanging an IP Address
 	* (Easy)   1470. Shuffle the Array
+* 2022/02/23 (Wed.)
+	* (Medium) 1476. Subrectangle Queries
 * 2022/03/03 (Thu.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 * 2022/03/04 (Fri.)
@@ -121,6 +126,7 @@ Record
 	* (Easy)   1108. Defanging an IP Address
 * 2022/03/03 (Thu.)
 	* (Easy)   1470. Shuffle the Array
+	* (Medium) 1476. Subrectangle Queries
 * 2022/03/09 (Wed.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Easy)   1588. Sum of All Odd Length Subarrays
@@ -158,4 +164,6 @@ Record
 * 2022/03/14 (Mon.)
 	* (Easy)   1108. Defanging an IP Address
 	* (Easy)   1470. Shuffle the Array
+* 2022/03/16 (Wed.)
+	* (Medium) 1476. Subrectangle Queries
 
