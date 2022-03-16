@@ -53,6 +53,7 @@ List
 
 #### Sorting
 * (Medium) 1329. Sort the Matrix Diagonally `Java` `C#`
+* (Easy)   1913. Maximum Product Difference Between Two Pairs `Java` `C#`
 
 #### Graph
 * (Medium) 0797. All Paths From Source to Target `Java`
@@ -101,6 +102,7 @@ Record
 	* (Medium) 2161. Partition Array According to Given Pivot
 	* (Easy)   1832. Check if the Sentence Is Pangram
 	* (Medium) 1329. Sort the Matrix Diagonally
+	* (Easy)   1913. Maximum Product Difference Between Two Pairs
 * 2022/03/09 (Wed.)
 	* (Mediun) 797. All Paths From Source to Target
 	* (Medium) 1877. Minimize Maximum Pair Sum in Array
@@ -159,6 +161,7 @@ Record
 	* (Easy)   1832. Check if the Sentence Is Pangram
 * 2022/03/16 (Wed.)
 	* (Medium) 1329. Sort the Matrix Diagonally
+	* (Easy)   1913. Maximum Product Difference Between Two Pairs
 
 #### C++
 
