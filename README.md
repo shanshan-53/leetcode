@@ -3,6 +3,7 @@ Leetcode
 List
 -
 #### Array
+* (Easy)   0832. Flipping an Image `Java`
 * (Easy)   1470. Shuffle the Array `Java` `C#` `C++`
 * (Easy)   1480. Running Sum of 1d Array `Java` `C#` `C++`
 * (Easy)   1534. Count Good Triplets `Java`
@@ -138,7 +139,10 @@ Record
 	* (Medium) 2161. Partition Array According to Given Pivot
 	* (Easy)   1684. Count the Number of Consistent Strings
 * 2022/03/15 (Tue.)
-        * (Easy)   1832. Check if the Sentence Is Pangram
+	* (Easy)   1832. Check if the Sentence Is Pangram
+* 2022/03/16 (Wed.)
+	* (Easy)   0832. Flipping an Image
+
 
 #### C++
 
