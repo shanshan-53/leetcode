@@ -61,6 +61,7 @@ List
 #### Sorting
 * (Medium) 1329. Sort the Matrix Diagonally `Java` `C#`
 * (Easy)   1913. Maximum Product Difference Between Two Pairs `Java` `C#`
+* (Easy)   2160. Minimum Sum of Four Digit Number After Splitting Digits `Java` `C#` `C++`
 
 #### Graph
 * (Medium) 0797. All Paths From Source to Target `Java`
@@ -91,6 +92,7 @@ Record
 * 2022/02/23 (Wed.)
 	* (Medium) 1476. Subrectangle Queries
 	* (Medium) 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
+	* (Easy)   2160. Minimum Sum of Four Digit Number After Splitting Digits
 * 2022/03/03 (Thu.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 * 2022/03/04 (Fri.)
@@ -157,6 +159,7 @@ Record
 	* (Easy)   1512. Number of Good Pairs
 	* (Medium) 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
 	* (Easy)   1431. Kids With the Greatest Number of Candies
+	* (Easy)   2160. Minimum Sum of Four Digit Number After Splitting Digits
 * 2022/03/09 (Wed.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Easy)   1588. Sum of All Odd Length Subarrays
@@ -203,4 +206,5 @@ Record
 * 2022/03/17 (Thu.)
 	* (Medium) 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
 	* (Easy)   1431. Kids With the Greatest Number of Candies
+	* (Easy)   2160. Minimum Sum of Four Digit Number After Splitting Digits
 
