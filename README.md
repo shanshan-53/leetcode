@@ -53,6 +53,7 @@ List
 * (Easy)   1266. Minimum Time Visiting All Points `Java`
 * (Easy)   1688. Count of Matches in Tournament `Java` `C#`
 * (Medium) 2079. Watering Plants `Java`
+* (Easy)   1323. Maximum 69 Number `Java`
 
 #### Two Pointer
 * (Medium) 1877. Minimize Maximum Pair Sum in Array `Java`
@@ -138,6 +139,7 @@ Record
 	* (Easy)   1266. Minimum Time Visiting All Points
 * 2022/03/17 (Thu.)
 	* (Easy)   1732. Find the Highest Altitude
+	* (Easy)   1323. Maximum 69 Number
 
 #### C#
 
