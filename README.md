@@ -10,6 +10,7 @@ List
 * (Easy)   1534. Count Good Triplets `Java`
 * (Easy)   1588. Sum of All Odd Length Subarrays `Java` `C#`
 * (Easy)   1672. Richest Customer Wealth `Java` `C#` `C++`
+* (Easy)   1732. Find the Highest Altitude `Java` 
 * (Easy)   1920. Build Array from Permutation `Java` `C#` `C++`
 * (Easy)   1929. Concatenation of Array `Java` `C#` `C++`
 * (Easy)   2006. Count Number of Pairs With Absolute Difference K `Java` `C#`
@@ -131,6 +132,8 @@ Record
 	* (Easy)   0832. Flipping an Image
 	* (Easy)   1967. Number of Strings That Appear as Substrings in Word
 	* (Easy)   1266. Minimum Time Visiting All Points
+* 2022/03/17 (Thu.)
+	* (Easy)   1732. Find the Highest Altitude
 
 #### C#
 
