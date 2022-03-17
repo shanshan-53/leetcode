@@ -44,6 +44,7 @@ List
 * (Easy)   1662. Check If Two String Arrays are Equivalent `Java` `C#`
 * (Easy)   1684. Count the Number of Consistent Strings `Java` `C#`
 * (Medium) 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers `Java` `C#` `C++`
+* (Easy)   1816. Truncate Sentence `Java` `C#`
 * (Easy)   1844. Replace All Digits with Characters `Java`
 * (Easy)   1967. Number of Strings That Appear as Substrings in Word `Java`
 * (Easy)   2108. Find First Palindromic String in the Array `Java`
@@ -111,6 +112,7 @@ Record
 	* (Medium) 1329. Sort the Matrix Diagonally
 	* (Easy)   1913. Maximum Product Difference Between Two Pairs
 	* (Easy)   0709. To Lower Case
+	* (Easy)   1816. Truncate Sentence
 * 2022/03/09 (Wed.)
 	* (Mediun) 797. All Paths From Source to Target
 	* (Medium) 1877. Minimize Maximum Pair Sum in Array
@@ -177,6 +179,7 @@ Record
 	* (Easy)   1913. Maximum Product Difference Between Two Pairs
 * 2022/03/17 (Thu.)
 	* (Easy)   0709. To Lower Case
+	* (Easy)   1816. Truncate Sentence
 
 #### C++
 
