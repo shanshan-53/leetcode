@@ -11,6 +11,7 @@ List
 * (Easy)   1534. Count Good Triplets `Java`
 * (Easy)   1588. Sum of All Odd Length Subarrays `Java` `C#`
 * (Easy)   1672. Richest Customer Wealth `Java` `C#` `C++`
+* (Easy)   1725. Number Of Rectangles That Can Form The Largest Square `Java`
 * (Easy)   1732. Find the Highest Altitude `Java` 
 * (Easy)   1920. Build Array from Permutation `Java` `C#` `C++`
 * (Easy)   1929. Concatenation of Array `Java` `C#` `C++`
@@ -152,6 +153,8 @@ Record
 	* (Easy)   1732. Find the Highest Altitude
 	* (Easy)   1323. Maximum 69 Number
 	* (Hard)   0980. Unique Paths III
+* 2022/03/18 (Fri.)
+	* (Easy)   1725. Number Of Rectangles That Can Form The Largest Square
 
 #### C#
 
