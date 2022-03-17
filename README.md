@@ -52,9 +52,10 @@ List
 
 #### Math
 * (Easy)   1266. Minimum Time Visiting All Points `Java`
+* (Easy)   1323. Maximum 69 Number `Java`
+* (Medium) 1551. Minimum Operations to Make Array Equal `Java` `C#`
 * (Easy)   1688. Count of Matches in Tournament `Java` `C#`
 * (Medium) 2079. Watering Plants `Java`
-* (Easy)   1323. Maximum 69 Number `Java`
 
 #### Two Pointer
 * (Medium) 1877. Minimize Maximum Pair Sum in Array `Java`
@@ -122,6 +123,8 @@ Record
 	* (Easy)   1913. Maximum Product Difference Between Two Pairs
 	* (Easy)   0709. To Lower Case
 	* (Easy)   1816. Truncate Sentence
+* 2022/03/08 (Tue.)
+	* (Medium) 1551. Minimum Operations to Make Array Equal
 * 2022/03/09 (Wed.)
 	* (Mediun) 797. All Paths From Source to Target
 	* (Medium) 1877. Minimize Maximum Pair Sum in Array
@@ -194,6 +197,7 @@ Record
 	* (Easy)   0709. To Lower Case
 	* (Easy)   1816. Truncate Sentence
 	* (Medium) 0797. All Paths From Source to Target
+	* (Medium) 1551. Minimum Operations to Make Array Equal
 
 #### C++
 
