@@ -76,6 +76,7 @@ List
 
 #### BackTracking
 * (Medium) 0797. All Paths From Source to Target `Java` `C#` 
+* (Hard)   0980. Unique Paths III `Java`
 
 Record
 -
@@ -145,6 +146,7 @@ Record
 * 2022/03/17 (Thu.)
 	* (Easy)   1732. Find the Highest Altitude
 	* (Easy)   1323. Maximum 69 Number
+	* (Hard)   0980. Unique Paths III
 
 #### C#
 
