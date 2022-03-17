@@ -4,6 +4,7 @@ List
 -
 #### Array
 * (Easy)   0832. Flipping an Image `Java`
+* (Easy)   1431. Kids With the Greatest Number of Candies `Java` `C#` `C++`
 * (Easy)   1470. Shuffle the Array `Java` `C#` `C++`
 * (Easy)   1480. Running Sum of 1d Array `Java` `C#` `C++`
 * (Easy)   1512. Number of Good Pairs `Java` `C#` `C++`
@@ -84,6 +85,7 @@ Record
 	* (Easy)   1108. Defanging an IP Address
 	* (Easy)   1470. Shuffle the Array
 	* (Easy)   1512. Number of Good Pairs
+	* (Easy)   1431. Kids With the Greatest Number of Candies
 * 2022/02/23 (Wed.)
 	* (Medium) 1476. Subrectangle Queries
 	* (Medium) 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
@@ -150,6 +152,7 @@ Record
 	* (Medium) 1476. Subrectangle Queries
 	* (Easy)   1512. Number of Good Pairs
 	* (Medium) 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
+	* (Easy)   1431. Kids With the Greatest Number of Candies
 * 2022/03/09 (Wed.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Easy)   1588. Sum of All Odd Length Subarrays
@@ -194,4 +197,5 @@ Record
 	* (Easy)   1512. Number of Good Pairs
 * 2022/03/17 (Thu.)
 	* (Medium) 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
+	* (Easy)   1431. Kids With the Greatest Number of Candies
 
