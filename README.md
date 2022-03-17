@@ -34,6 +34,7 @@ List
 * (Easy)   2103. Rings and Rods `Java` `C#`
 
 #### String
+* (Easy)   0709. To Lower Case `Java` `C#`
 * (Easy)   0804. Unique Morse Code Words `Java`
 * (Easy)   1021. Remove Outermost Parentheses `Java`
 * (Easy)   1108. Defanging an IP Address `Java` `C#` `C++`
@@ -106,6 +107,7 @@ Record
 	* (Easy)   1832. Check if the Sentence Is Pangram
 	* (Medium) 1329. Sort the Matrix Diagonally
 	* (Easy)   1913. Maximum Product Difference Between Two Pairs
+	* (Easy)   0709. To Lower Case
 * 2022/03/09 (Wed.)
 	* (Mediun) 797. All Paths From Source to Target
 	* (Medium) 1877. Minimize Maximum Pair Sum in Array
@@ -167,6 +169,8 @@ Record
 * 2022/03/16 (Wed.)
 	* (Medium) 1329. Sort the Matrix Diagonally
 	* (Easy)   1913. Maximum Product Difference Between Two Pairs
+* 2022/03/17 (Thu.)
+	* (Easy)   0709. To Lower Case
 
 #### C++
 
