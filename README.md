@@ -74,6 +74,9 @@ List
 #### Design
 * (Medium) 1476. Subrectangle Queries `Java` `C#` `C++`
 
+#### BackTracking
+* (Medium) 0797. All Paths From Source to Target `Java` `C#` 
+
 Record
 -
 #### Java
@@ -185,6 +188,7 @@ Record
 * 2022/03/17 (Thu.)
 	* (Easy)   0709. To Lower Case
 	* (Easy)   1816. Truncate Sentence
+	* (Medium) 0797. All Paths From Source to Target
 
 #### C++
 
