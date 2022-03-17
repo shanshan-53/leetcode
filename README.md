@@ -40,6 +40,7 @@ List
 * (Easy)   1614. Maximum Nesting Depth of the Parentheses `Java` `C#`
 * (Easy)   1662. Check If Two String Arrays are Equivalent `Java` `C#`
 * (Easy)   1684. Count the Number of Consistent Strings `Java` `C#`
+* (Medium) 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers `Java` `C#` `C++`
 * (Easy)   1844. Replace All Digits with Characters `Java`
 * (Easy)   1967. Number of Strings That Appear as Substrings in Word `Java`
 * (Easy)   2108. Find First Palindromic String in the Array `Java`
@@ -83,6 +84,7 @@ Record
 	* (Easy)   1512. Number of Good Pairs
 * 2022/02/23 (Wed.)
 	* (Medium) 1476. Subrectangle Queries
+	* (Medium) 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
 * 2022/03/03 (Thu.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 * 2022/03/04 (Fri.)
@@ -142,6 +144,7 @@ Record
 	* (Easy)   1470. Shuffle the Array
 	* (Medium) 1476. Subrectangle Queries
 	* (Easy)   1512. Number of Good Pairs
+	* (Medium) 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
 * 2022/03/09 (Wed.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Easy)   1588. Sum of All Odd Length Subarrays
@@ -182,3 +185,6 @@ Record
 * 2022/03/16 (Wed.)
 	* (Medium) 1476. Subrectangle Queries
 	* (Easy)   1512. Number of Good Pairs
+* 2022/03/17 (Thu.)
+	* (Medium) 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
+
