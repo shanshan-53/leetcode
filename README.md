@@ -58,6 +58,7 @@ List
 * (Easy)   1323. Maximum 69 Number `Java`
 * (Medium) 1551. Minimum Operations to Make Array Equal `Java` `C#`
 * (Easy)   1688. Count of Matches in Tournament `Java` `C#`
+* (Medium) 1828. Queries on Number of Points Inside a Circle `Java` `C#` `C++`
 * (Medium) 2079. Watering Plants `Java`
 
 #### Two Pointer
@@ -108,6 +109,7 @@ Record
 	* (Easy)   2160. Minimum Sum of Four Digit Number After Splitting Digits
 	* (Medium) 2181. Merge Nodes in Between Zeros
 	* (Easy)   1603. Design Parking System
+	* (Medium) 1828. Queries on Number of Points Inside a Circle
 * 2022/03/03 (Thu.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 * 2022/03/04 (Fri.)
@@ -185,6 +187,7 @@ Record
 	* (Easy)   0771. Jewels and Stones
 	* (Medium) 2181. Merge Nodes in Between Zeros
 	* (Easy)   1603. Design Parking System
+	* (Medium) 1828. Queries on Number of Points Inside a Circle
 * 2022/03/09 (Wed.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Easy)   1588. Sum of All Odd Length Subarrays
@@ -241,4 +244,5 @@ Record
 * 2022/03/18 (Fri.)
 	* (Medium) 2181. Merge Nodes in Between Zeros
 	* (Easy)   1603. Design Parking System
+	* (Medium) 1828. Queries on Number of Points Inside a Circle
 
