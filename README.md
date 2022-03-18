@@ -84,6 +84,7 @@ List
 #### BackTracking
 * (Medium) 0797. All Paths From Source to Target `Java` `C#` 
 * (Hard)   0980. Unique Paths III `Java`
+* (Easy)   1863. Sum of All Subset XOR Totals `Java`
 
 Record
 -
@@ -162,6 +163,7 @@ Record
 * 2022/03/18 (Fri.)
 	* (Easy)   1725. Number Of Rectangles That Can Form The Largest Square
 	* (Medium) 0763. Partition Labels
+	* (Easy)   1863. Sum of All Subset XOR Totals
 
 #### C#
 
