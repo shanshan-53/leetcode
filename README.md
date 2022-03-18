@@ -64,6 +64,7 @@ List
 
 #### Sorting
 * (Medium) 1329. Sort the Matrix Diagonally `Java` `C#`
+* (Medium) 1877. Minimize Maximum Pair Sum in Array `Java` `C#`
 * (Easy)   1913. Maximum Product Difference Between Two Pairs `Java` `C#`
 * (Easy)   2160. Minimum Sum of Four Digit Number After Splitting Digits `Java` `C#` `C++`
 
@@ -204,6 +205,8 @@ Record
 	* (Easy)   1816. Truncate Sentence
 	* (Medium) 0797. All Paths From Source to Target
 	* (Medium) 1551. Minimum Operations to Make Array Equal
+* 2022/03/18 (Fri.)
+	* (Medium) 1877. Minimize Maximum Pair Sum in Array
 
 #### C++
 
