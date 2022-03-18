@@ -59,7 +59,7 @@ List
 * (Medium) 1551. Minimum Operations to Make Array Equal `Java` `C#`
 * (Easy)   1688. Count of Matches in Tournament `Java` `C#`
 * (Medium) 1828. Queries on Number of Points Inside a Circle `Java` `C#` `C++`
-* (Medium) 2079. Watering Plants `Java`
+* (Medium) 2079. Watering Plants `Java` `C#`
 
 #### Two Pointer
 * (Medium) 1877. Minimize Maximum Pair Sum in Array `Java`
@@ -218,6 +218,7 @@ Record
 * 2022/03/18 (Fri.)
 	* (Medium) 1877. Minimize Maximum Pair Sum in Array
 	* (Easy)   1534. Count Good Triplets
+	* (Medium) 2079. Watering Plants
 
 #### C++
 
