@@ -35,6 +35,7 @@ List
 #### Hash Table
 * (Medium) 0763. Partition Labels `Java`
 * (Easy)   1252. Cells with Odd Values in a Matrix `Java`
+* (Easy)   1365. How Many Numbers Are Smaller Than the Current Number `Java` `C#` `C++`
 * (Medium) 1817. Finding the Users Active Minutes `Java`
 * (Easy)   1832. Check if the Sentence Is Pangram `Java` `C#`
 * (Easy)   2103. Rings and Rods `Java` `C#`
@@ -111,6 +112,7 @@ Record
 	* (Medium) 2181. Merge Nodes in Between Zeros
 	* (Easy)   1603. Design Parking System
 	* (Medium) 1828. Queries on Number of Points Inside a Circle
+	* (Easy)   1365. How Many Numbers Are Smaller Than the Current Number
 * 2022/03/03 (Thu.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 * 2022/03/04 (Fri.)
@@ -190,6 +192,7 @@ Record
 	* (Medium) 2181. Merge Nodes in Between Zeros
 	* (Easy)   1603. Design Parking System
 	* (Medium) 1828. Queries on Number of Points Inside a Circle
+	* (Easy)   1365. How Many Numbers Are Smaller Than the Current Number
 * 2022/03/09 (Wed.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Easy)   1588. Sum of All Odd Length Subarrays
@@ -248,4 +251,5 @@ Record
 	* (Medium) 2181. Merge Nodes in Between Zeros
 	* (Easy)   1603. Design Parking System
 	* (Medium) 1828. Queries on Number of Points Inside a Circle
+	* (Easy)   1365. How Many Numbers Are Smaller Than the Current Number
 
