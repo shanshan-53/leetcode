@@ -36,7 +36,7 @@ List
 * (Medium) 0763. Partition Labels `Java`
 * (Easy)   1252. Cells with Odd Values in a Matrix `Java`
 * (Easy)   1365. How Many Numbers Are Smaller Than the Current Number `Java` `C#` `C++`
-* (Medium) 1817. Finding the Users Active Minutes `Java`
+* (Medium) 1817. Finding the Users Active Minutes `Java` `C#`
 * (Easy)   1832. Check if the Sentence Is Pangram `Java` `C#`
 * (Easy)   2103. Rings and Rods `Java` `C#`
 
@@ -224,6 +224,7 @@ Record
 	* (Medium) 1877. Minimize Maximum Pair Sum in Array
 	* (Easy)   1534. Count Good Triplets
 	* (Medium) 2079. Watering Plants
+	* (Medium) 1817. Finding the Users Active Minutes
 
 #### C++
 
