@@ -33,6 +33,7 @@ List
 * (Medium) 2181. Merge Nodes in Between Zeros `Java` `C#` `C++`
 
 #### Hash Table
+* (Medium) 0763. Partition Labels `Java`
 * (Medium) 1817. Finding the Users Active Minutes `Java`
 * (Easy)   1832. Check if the Sentence Is Pangram `Java` `C#`
 * (Easy)   2103. Rings and Rods `Java` `C#`
@@ -158,6 +159,7 @@ Record
 	* (Hard)   0980. Unique Paths III
 * 2022/03/18 (Fri.)
 	* (Easy)   1725. Number Of Rectangles That Can Form The Largest Square
+	* (Medium) 0763. Partition Labels
 
 #### C#
 
