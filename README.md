@@ -8,7 +8,7 @@ List
 * (Easy)   1470. Shuffle the Array `Java` `C#` `C++`
 * (Easy)   1480. Running Sum of 1d Array `Java` `C#` `C++`
 * (Easy)   1512. Number of Good Pairs `Java` `C#` `C++`
-* (Easy)   1534. Count Good Triplets `Java`
+* (Easy)   1534. Count Good Triplets `Java` `C#`
 * (Easy)   1588. Sum of All Odd Length Subarrays `Java` `C#`
 * (Easy)   1672. Richest Customer Wealth `Java` `C#` `C++`
 * (Easy)   1725. Number Of Rectangles That Can Form The Largest Square `Java`
@@ -212,6 +212,7 @@ Record
 	* (Medium) 1551. Minimum Operations to Make Array Equal
 * 2022/03/18 (Fri.)
 	* (Medium) 1877. Minimize Maximum Pair Sum in Array
+	* (Easy)   1534. Count Good Triplets
 
 #### C++
 
