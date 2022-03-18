@@ -79,6 +79,7 @@ List
 
 #### Design
 * (Medium) 1476. Subrectangle Queries `Java` `C#` `C++`
+* (Easy)   1603. Design Parking System `Java` `C#` `C++`
 
 #### BackTracking
 * (Medium) 0797. All Paths From Source to Target `Java` `C#` 
@@ -105,6 +106,7 @@ Record
 	* (Medium) 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
 	* (Easy)   2160. Minimum Sum of Four Digit Number After Splitting Digits
 	* (Medium) 2181. Merge Nodes in Between Zeros
+	* (Easy)   1603. Design Parking System
 * 2022/03/03 (Thu.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 * 2022/03/04 (Fri.)
@@ -180,6 +182,7 @@ Record
 	* (Easy)   2160. Minimum Sum of Four Digit Number After Splitting Digits
 	* (Easy)   0771. Jewels and Stones
 	* (Medium) 2181. Merge Nodes in Between Zeros
+	* (Easy)   1603. Design Parking System
 * 2022/03/09 (Wed.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Easy)   1588. Sum of All Odd Length Subarrays
@@ -234,4 +237,5 @@ Record
 	* (Easy)   0771. Jewels and Stones
 * 2022/03/18 (Fri.)
 	* (Medium) 2181. Merge Nodes in Between Zeros
+	* (Easy)   1603. Design Parking System
 
