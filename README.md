@@ -30,6 +30,7 @@ List
 #### Linked List
 * (Easy)   1290. Convert Binary Number in a Linked List to Integer `Java` `C#`
 * (Medium) 2130. Maximum Twin Sum of a Linked List `Java` `C#`
+* (Medium) 2181. Merge Nodes in Between Zeros `Java` `C#` `C++`
 
 #### Hash Table
 * (Medium) 1817. Finding the Users Active Minutes `Java`
@@ -101,6 +102,7 @@ Record
 	* (Medium) 1476. Subrectangle Queries
 	* (Medium) 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
 	* (Easy)   2160. Minimum Sum of Four Digit Number After Splitting Digits
+	* (Medium) 2181. Merge Nodes in Between Zeros
 * 2022/03/03 (Thu.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 * 2022/03/04 (Fri.)
@@ -174,6 +176,7 @@ Record
 	* (Easy)   1431. Kids With the Greatest Number of Candies
 	* (Easy)   2160. Minimum Sum of Four Digit Number After Splitting Digits
 	* (Easy)   0771. Jewels and Stones
+	* (Medium) 2181. Merge Nodes in Between Zeros
 * 2022/03/09 (Wed.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Easy)   1588. Sum of All Odd Length Subarrays
@@ -224,4 +227,6 @@ Record
 	* (Easy)   1431. Kids With the Greatest Number of Candies
 	* (Easy)   2160. Minimum Sum of Four Digit Number After Splitting Digits
 	* (Easy)   0771. Jewels and Stones
+* 2022/03/18 (Fri.)
+	* (Medium) 2181. Merge Nodes in Between Zeros
 
