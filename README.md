@@ -34,6 +34,7 @@ List
 
 #### Hash Table
 * (Medium) 0763. Partition Labels `Java`
+* (Easy)   1252. Cells with Odd Values in a Matrix `Java`
 * (Medium) 1817. Finding the Users Active Minutes `Java`
 * (Easy)   1832. Check if the Sentence Is Pangram `Java` `C#`
 * (Easy)   2103. Rings and Rods `Java` `C#`
@@ -166,6 +167,7 @@ Record
 	* (Easy)   1725. Number Of Rectangles That Can Form The Largest Square
 	* (Medium) 0763. Partition Labels
 	* (Easy)   1863. Sum of All Subset XOR Totals
+	* (Easy)   1252. Cells with Odd Values in a Matrix
 
 #### C#
 
