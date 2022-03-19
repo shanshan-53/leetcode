@@ -63,6 +63,9 @@ List
 * (Medium) 1828. Queries on Number of Points Inside a Circle `Java` `C#` `C++`
 * (Medium) 2079. Watering Plants `Java` `C#`
 
+#### Matrix
+* (Medium) 1605. Find Valid Matrix Given Row and Column Sums `Java`
+
 #### Two Pointer
 * (Medium) 1877. Minimize Maximum Pair Sum in Array `Java`
 
@@ -170,6 +173,8 @@ Record
 	* (Medium) 0763. Partition Labels
 	* (Easy)   1863. Sum of All Subset XOR Totals
 	* (Easy)   1252. Cells with Odd Values in a Matrix
+* 2022/03/19 (Sat.)
+	* (Medium) 1605. Find Valid Matrix Given Row and Column Sums
 
 #### C#
 
