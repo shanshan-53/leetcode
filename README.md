@@ -57,6 +57,7 @@ List
 
 #### Math
 * (Easy)   1266. Minimum Time Visiting All Points `Java`
+* (Easy)   1281. Subtract the Product and Sum of Digits of an Integer `Java` `C#` `C++`
 * (Easy)   1323. Maximum 69 Number `Java`
 * (Medium) 1551. Minimum Operations to Make Array Equal `Java` `C#`
 * (Easy)   1688. Count of Matches in Tournament `Java` `C#`
@@ -116,6 +117,7 @@ Record
 	* (Easy)   1603. Design Parking System
 	* (Medium) 1828. Queries on Number of Points Inside a Circle
 	* (Easy)   1365. How Many Numbers Are Smaller Than the Current Number
+	* (Easy)   1281. Subtract the Product and Sum of Digits of an Integer
 * 2022/03/03 (Thu.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 * 2022/03/04 (Fri.)
@@ -198,6 +200,8 @@ Record
 	* (Easy)   1603. Design Parking System
 	* (Medium) 1828. Queries on Number of Points Inside a Circle
 	* (Easy)   1365. How Many Numbers Are Smaller Than the Current Number
+* 2022/03/04 (Fri.)
+	* (Easy)   1281. Subtract the Product and Sum of Digits of an Integer
 * 2022/03/09 (Wed.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Easy)   1588. Sum of All Odd Length Subarrays
@@ -258,4 +262,6 @@ Record
 	* (Easy)   1603. Design Parking System
 	* (Medium) 1828. Queries on Number of Points Inside a Circle
 	* (Easy)   1365. How Many Numbers Are Smaller Than the Current Number
+* 2022/03/19 (Sat.)
+	* (Easy)   1281. Subtract the Product and Sum of Digits of an Integer
 
