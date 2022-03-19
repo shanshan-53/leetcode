@@ -34,6 +34,7 @@ List
 #### Hash Table
 * (Medium) 0763. Partition Labels `Java`
 * (Easy)   1252. Cells with Odd Values in a Matrix `Java`
+* (Easy)   1309. Decrypt String from Alphabet to Integer Mapping `Java`
 * (Easy)   1365. How Many Numbers Are Smaller Than the Current Number `Java` `C#` `C++`
 * (Medium) 1817. Finding the Users Active Minutes `Java` `C#`
 * (Easy)   1832. Check if the Sentence Is Pangram `Java` `C#`
@@ -177,6 +178,8 @@ Record
 	* (Easy)   1252. Cells with Odd Values in a Matrix
 * 2022/03/19 (Sat.)
 	* (Medium) 1605. Find Valid Matrix Given Row and Column Sums
+* 2022/03/20 (Sun.)
+	* (Easy)   1309. Decrypt String from Alphabet to Integer Mapping
 
 #### C#
 
