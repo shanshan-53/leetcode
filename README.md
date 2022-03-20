@@ -87,7 +87,7 @@ List
 #### Binary Search Tree
 * (Medium) 1008. Construct Binary Search Tree from Preorder Traversal `Java`
 * (Medium) 1305. All Elements in Two Binary Search Trees `Java`
-* (Medium) 1382. Balance a Binary Search Tree `Java`
+* (Medium) 1382. Balance a Binary Search Tree `Java` `C#`
 
 #### Design
 * (Medium) 1476. Subrectangle Queries `Java` `C#` `C++`
@@ -246,6 +246,8 @@ Record
 	* (Medium) 1817. Finding the Users Active Minutes
 * 2022/03/19 (Sat.)
 	* (Easy)   2089. Find Target Indices After Sorting Array
+* 2022/03/20 (Sun.)
+	* (Medium) 1382. Balance a Binary Search Tree
 
 #### C++
 
