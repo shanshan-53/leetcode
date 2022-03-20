@@ -65,6 +65,7 @@ List
 * (Medium) 2079. Watering Plants `Java` `C#`
 
 #### Matrix
+* (Medium) 0054. Spiral Matrix `Java`
 * (Medium) 1605. Find Valid Matrix Given Row and Column Sums `Java`
 
 #### Two Pointer
@@ -180,6 +181,7 @@ Record
 	* (Medium) 1605. Find Valid Matrix Given Row and Column Sums
 * 2022/03/20 (Sun.)
 	* (Easy)   1309. Decrypt String from Alphabet to Integer Mapping
+	* (Medium) 0054. Spiral Matrix
 
 #### C#
 
