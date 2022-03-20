@@ -4,6 +4,7 @@ List
 -
 #### Array
 * (Easy)   0832. Flipping an Image `Java`
+* (Easy)   1313. Decompress Run-Length Encoded List `Java` `C#` `C++`
 * (Easy)   1431. Kids With the Greatest Number of Candies `Java` `C#` `C++`
 * (Easy)   1470. Shuffle the Array `Java` `C#` `C++`
 * (Easy)   1480. Running Sum of 1d Array `Java` `C#` `C++`
@@ -126,6 +127,7 @@ Record
 	* (Easy)   1365. How Many Numbers Are Smaller Than the Current Number
 	* (Easy)   1281. Subtract the Product and Sum of Digits of an Integer
 	* (Easy)   1720. Decode XORed Array
+	* (Easy)   1313. Decompress Run-Length Encoded List
 * 2022/03/03 (Thu.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 * 2022/03/04 (Fri.)
@@ -217,6 +219,7 @@ Record
 * 2022/03/04 (Fri.)
 	* (Easy)   1281. Subtract the Product and Sum of Digits of an Integer
 	* (Easy)   1720. Decode XORed Array
+	* (Easy)   1313. Decompress Run-Length Encoded List
 * 2022/03/09 (Wed.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Easy)   1588. Sum of All Odd Length Subarrays
@@ -285,4 +288,6 @@ Record
 	* (Easy)   1281. Subtract the Product and Sum of Digits of an Integer
 * 2022/03/20 (Sun.)
 	* (Easy)   1720. Decode XORed Array
+* 2022/03/21 (Mon.)
+	* (Easy)   1313. Decompress Run-Length Encoded List
 
