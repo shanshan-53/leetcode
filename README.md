@@ -86,6 +86,7 @@ List
 * (Medium) 0797. All Paths From Source to Target `Java`
 
 #### Binary Search Tree
+* (Medium) 0230. Kth Smallest Element in a BST `Java`
 * (Medium) 1008. Construct Binary Search Tree from Preorder Traversal `Java`
 * (Medium) 1305. All Elements in Two Binary Search Trees `Java`
 * (Medium) 1382. Balance a Binary Search Tree `Java` `C#`
@@ -189,6 +190,7 @@ Record
 	* (Medium) 0054. Spiral Matrix
 * 2022/03/21 (Mon.)
 	* (Medium) 1630. Arithmetic Subarrays
+	* (Medium) 0230. Kth Smallest Element in a BST
 
 #### C#
 
