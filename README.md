@@ -52,7 +52,7 @@ List
 * (Easy)   1684. Count the Number of Consistent Strings `Java` `C#`
 * (Medium) 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers `Java` `C#` `C++`
 * (Easy)   1816. Truncate Sentence `Java` `C#`
-* (Easy)   1844. Replace All Digits with Characters `Java`
+* (Easy)   1844. Replace All Digits with Characters `Java` `C#`
 * (Easy)   1967. Number of Strings That Appear as Substrings in Word `Java`
 * (Easy)   2108. Find First Palindromic String in the Array `Java`
 
@@ -256,6 +256,8 @@ Record
 	* (Easy)   2089. Find Target Indices After Sorting Array
 * 2022/03/20 (Sun.)
 	* (Medium) 1382. Balance a Binary Search Tree
+* 2022/03/21 (Mon.)
+	* (Easy)   1844. Replace All Digits with Characters
 
 #### C++
 
