@@ -68,6 +68,9 @@ List
 * (Medium) 0054. Spiral Matrix `Java`
 * (Medium) 1605. Find Valid Matrix Given Row and Column Sums `Java`
 
+#### Bit Manipulation
+* (Easy)   1720. Decode XORed Array `Java` `C#` `C++`
+
 #### Two Pointer
 * (Medium) 1877. Minimize Maximum Pair Sum in Array `Java`
 
@@ -120,6 +123,7 @@ Record
 	* (Medium) 1828. Queries on Number of Points Inside a Circle
 	* (Easy)   1365. How Many Numbers Are Smaller Than the Current Number
 	* (Easy)   1281. Subtract the Product and Sum of Digits of an Integer
+	* (Easy)   1720. Decode XORed Array
 * 2022/03/03 (Thu.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 * 2022/03/04 (Fri.)
@@ -207,6 +211,7 @@ Record
 	* (Easy)   1365. How Many Numbers Are Smaller Than the Current Number
 * 2022/03/04 (Fri.)
 	* (Easy)   1281. Subtract the Product and Sum of Digits of an Integer
+	* (Easy)   1720. Decode XORed Array
 * 2022/03/09 (Wed.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Easy)   1588. Sum of All Odd Length Subarrays
@@ -271,4 +276,6 @@ Record
 	* (Easy)   1365. How Many Numbers Are Smaller Than the Current Number
 * 2022/03/19 (Sat.)
 	* (Easy)   1281. Subtract the Product and Sum of Digits of an Integer
+* 2022/03/20 (Sun.)
+	* (Easy)   1720. Decode XORed Array
 
