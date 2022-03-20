@@ -6,6 +6,7 @@ List
 * (Easy)   0832. Flipping an Image `Java`
 * (Easy)   1313. Decompress Run-Length Encoded List `Java` `C#` `C++`
 * (Easy)   1431. Kids With the Greatest Number of Candies `Java` `C#` `C++`
+* (Easy)   1464. Maximum Product of Two Elements in an Array `Java`
 * (Easy)   1470. Shuffle the Array `Java` `C#` `C++`
 * (Easy)   1480. Running Sum of 1d Array `Java` `C#` `C++`
 * (Easy)   1512. Number of Good Pairs `Java` `C#` `C++`
@@ -193,6 +194,7 @@ Record
 * 2022/03/21 (Mon.)
 	* (Medium) 1630. Arithmetic Subarrays
 	* (Medium) 0230. Kth Smallest Element in a BST
+	* (Easy)   1464. Maximum Product of Two Elements in an Array
 
 #### C#
 
