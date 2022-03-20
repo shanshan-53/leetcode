@@ -76,6 +76,7 @@ List
 
 #### Sorting
 * (Medium) 1329. Sort the Matrix Diagonally `Java` `C#`
+* (Medium) 1630. Arithmetic Subarrays `Java`
 * (Medium) 1877. Minimize Maximum Pair Sum in Array `Java` `C#`
 * (Easy)   1913. Maximum Product Difference Between Two Pairs `Java` `C#`
 * (Easy)   2089. Find Target Indices After Sorting Array `Java` `C#`
@@ -186,6 +187,8 @@ Record
 * 2022/03/20 (Sun.)
 	* (Easy)   1309. Decrypt String from Alphabet to Integer Mapping
 	* (Medium) 0054. Spiral Matrix
+* 2022/03/21 (Mon.)
+	* (Medium) 1630. Arithmetic Subarrays
 
 #### C#
 
