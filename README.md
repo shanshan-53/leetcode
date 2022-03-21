@@ -60,6 +60,7 @@ List
 * (Easy)   2108. Find First Palindromic String in the Array `Java`
 
 #### Math
+* (Medium) 0238. Product of Array Except Self `Java`
 * (Easy)   1266. Minimum Time Visiting All Points `Java`
 * (Easy)   1281. Subtract the Product and Sum of Digits of an Integer `Java` `C#` `C++`
 * (Easy)   1323. Maximum 69 Number `Java`
@@ -201,6 +202,7 @@ Record
 	* (Easy)   1464. Maximum Product of Two Elements in an Array
 	* (Medium) 0347. Top K Frequent Elements
 	* (Medium) 1557. Minimum Number of Vertices to Reach All Nodes
+	* (Medium) 0238. Product of Array Except Self
 
 #### C#
 
