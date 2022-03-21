@@ -88,6 +88,7 @@ List
 
 #### Graph
 * (Medium) 0797. All Paths From Source to Target `Java`
+* (Medium) 1557. Minimum Number of Vertices to Reach All Nodes `Java`
 
 #### Binary Search Tree
 * (Medium) 0230. Kth Smallest Element in a BST `Java`
@@ -199,7 +200,8 @@ Record
 	* (Medium) 0230. Kth Smallest Element in a BST
 	* (Easy)   1464. Maximum Product of Two Elements in an Array
 	* (Medium) 0347. Top K Frequent Elements
-	
+	* (Medium) 1557. Minimum Number of Vertices to Reach All Nodes
+
 #### C#
 
 * 2022/03/02 (Wed.)
