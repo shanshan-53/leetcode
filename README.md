@@ -49,6 +49,7 @@ List
 * (Easy)   0804. Unique Morse Code Words `Java`
 * (Easy)   1021. Remove Outermost Parentheses `Java`
 * (Easy)   1108. Defanging an IP Address `Java` `C#` `C++`
+* (Easy)   1528. Shuffle String `Java` `C#` `C++`
 * (Easy)   1614. Maximum Nesting Depth of the Parentheses `Java` `C#`
 * (Easy)   1662. Check If Two String Arrays are Equivalent `Java` `C#`
 * (Easy)   1684. Count the Number of Consistent Strings `Java` `C#`
@@ -130,6 +131,7 @@ Record
 	* (Easy)   1281. Subtract the Product and Sum of Digits of an Integer
 	* (Easy)   1720. Decode XORed Array
 	* (Easy)   1313. Decompress Run-Length Encoded List
+	* (Easy)   1528. Shuffle String
 * 2022/03/03 (Thu.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 * 2022/03/04 (Fri.)
@@ -197,7 +199,7 @@ Record
 	* (Medium) 0230. Kth Smallest Element in a BST
 	* (Easy)   1464. Maximum Product of Two Elements in an Array
 	* (Medium) 0347. Top K Frequent Elements
-
+	
 #### C#
 
 * 2022/03/02 (Wed.)
@@ -262,6 +264,7 @@ Record
 	* (Medium) 1382. Balance a Binary Search Tree
 * 2022/03/21 (Mon.)
 	* (Easy)   1844. Replace All Digits with Characters
+	* (Easy)   1528. Shuffle String
 
 #### C++
 
@@ -296,4 +299,5 @@ Record
 	* (Easy)   1720. Decode XORed Array
 * 2022/03/21 (Mon.)
 	* (Easy)   1313. Decompress Run-Length Encoded List
+	* (Easy)   1528. Shuffle String
 
