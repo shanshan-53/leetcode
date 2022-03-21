@@ -25,6 +25,8 @@
 	* (Easy)   1720. Decode XORed Array
 	* (Easy)   1313. Decompress Run-Length Encoded List
 	* (Easy)   1342. Number of Steps to Reduce a Number to Zero
+* 2022/03/05 (Sat.)
+	* (Medium) 1769. Minimum Number of Operations to Move All Balls to Each Box
 * 2022/03/09 (Wed.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Easy)   1588. Sum of All Odd Length Subarrays
