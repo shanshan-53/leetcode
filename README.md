@@ -82,6 +82,7 @@ List
 * (Medium) 1877. Minimize Maximum Pair Sum in Array `Java`
 
 #### Sorting
+* (Medium) 0215. Kth Largest Element in an Array `Java`
 * (Medium) 1329. Sort the Matrix Diagonally `Java` `C#`
 * (Medium) 1630. Arithmetic Subarrays `Java`
 * (Medium) 1877. Minimize Maximum Pair Sum in Array `Java` `C#`
