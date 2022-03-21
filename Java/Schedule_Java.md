@@ -96,4 +96,5 @@ Record
 	* (Medium) 0347. Top K Frequent Elements
 	* (Medium) 1557. Minimum Number of Vertices to Reach All Nodes
 	* (Medium) 0238. Product of Array Except Self
+	* (Easy)   1827. Minimum Operations to Make the Array Increasing
 

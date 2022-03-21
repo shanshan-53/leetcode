@@ -68,6 +68,7 @@ List
 * (Medium) 1551. Minimum Operations to Make Array Equal `Java` `C#`
 * (Easy)   1688. Count of Matches in Tournament `Java` `C#`
 * (Medium) 1828. Queries on Number of Points Inside a Circle `Java` `C#` `C++`
+* (Easy)   1827. Minimum Operations to Make the Array Increasing `Java`
 * (Medium) 2079. Watering Plants `Java` `C#`
 
 #### Matrix
