@@ -34,6 +34,7 @@ List
 * (Medium) 2181. Merge Nodes in Between Zeros `Java` `C#` `C++`
 
 #### Hash Table
+* (Medium) 0347. Top K Frequent Elements `Java`
 * (Medium) 0763. Partition Labels `Java`
 * (Easy)   1252. Cells with Odd Values in a Matrix `Java`
 * (Easy)   1309. Decrypt String from Alphabet to Integer Mapping `Java`
@@ -195,6 +196,7 @@ Record
 	* (Medium) 1630. Arithmetic Subarrays
 	* (Medium) 0230. Kth Smallest Element in a BST
 	* (Easy)   1464. Maximum Product of Two Elements in an Array
+	* (Medium) 0347. Top K Frequent Elements
 
 #### C#
 
