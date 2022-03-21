@@ -32,5 +32,5 @@
 * 2022/03/21 (Mon.)
 	* (Easy)   1313. Decompress Run-Length Encoded List
 	* (Easy)   1528. Shuffle String
-
+	* (Easy)   1342. Number of Steps to Reduce a Number to Zero
 
