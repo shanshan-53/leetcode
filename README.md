@@ -42,6 +42,7 @@ List
 * (Medium) 1817. Finding the Users Active Minutes `Java` `C#`
 * (Easy)   1832. Check if the Sentence Is Pangram `Java` `C#`
 * (Easy)   2103. Rings and Rods `Java` `C#`
+* (Easy)   2176. Count Equal and Divisible Pairs in an Array `Java` `C#`
 
 #### String
 * (Easy)   0709. To Lower Case `Java` `C#`
