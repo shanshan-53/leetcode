@@ -74,6 +74,9 @@ List
 * (Easy)   1979. Find Greatest Common Divisor of Array `Java` `C#`
 * (Medium) 2079. Watering Plants `Java` `C#`
 
+#### Dynamic Programing
+* (Medium) 0122. Best Time to Buy and Sell Stock II
+
 #### Matrix
 * (Medium) 0054. Spiral Matrix `Java`
 * (Medium) 0289. Game of Life `Java`
