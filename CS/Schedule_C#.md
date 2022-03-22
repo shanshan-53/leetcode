@@ -67,4 +67,5 @@
 	* (Easy)   1844. Replace All Digits with Characters
 	* (Easy)   1528. Shuffle String
 	* (Medium) 1008. Construct Binary Search Tree from Preorder Traversal
-
+* 2022/03/22 (Tue.)
+	* (Easy)   2108. Find First Palindromic String in the Array
