@@ -36,5 +36,5 @@
 	* (Medium) 1769. Minimum Number of Operations to Move All Balls to Each Box
 * 2022/03/22 (Tue.)
 	* (Medium) 1302. Deepest Leaves Sum
-
+	* (Easy)   1678. Goal Parser Interpretation
 

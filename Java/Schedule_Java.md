@@ -30,6 +30,7 @@ Record
 * 2022/02/24 (Tue.)
 	* (Medium) 1769. Minimum Number of Operations to Move All Balls to Each Box
 	* (Medium) 1302. Deepest Leaves Sum
+	* (Easy)   1678. Goal Parser Interpretation
 * 2022/03/03 (Thu.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 * 2022/03/04 (Fri.)
