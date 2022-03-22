@@ -104,4 +104,5 @@ Record
 * 2022/03/22 (Tue.)
 	* (Medium) 1561. Maximum Number of Coins You Can Get
 	* (Medium) 0289. Game of Life
+	* (Easy)   1979. Find Greatest Common Divisor of Array
 

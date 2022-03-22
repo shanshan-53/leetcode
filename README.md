@@ -71,6 +71,7 @@ List
 * (Easy)   1688. Count of Matches in Tournament `Java` `C#`
 * (Medium) 1828. Queries on Number of Points Inside a Circle `Java` `C#` `C++`
 * (Easy)   1827. Minimum Operations to Make the Array Increasing `Java`
+* (Easy)   1979. Find Greatest Common Divisor of Array `Java` `C#`
 * (Medium) 2079. Watering Plants `Java` `C#`
 
 #### Matrix
