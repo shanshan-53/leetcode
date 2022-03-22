@@ -25,6 +25,7 @@
 	* (Easy)   1720. Decode XORed Array
 	* (Easy)   1313. Decompress Run-Length Encoded List
 	* (Easy)   1342. Number of Steps to Reduce a Number to Zero
+	* (Medium) 1302. Deepest Leaves Sum
 * 2022/03/05 (Sat.)
 	* (Medium) 1769. Minimum Number of Operations to Move All Balls to Each Box
 * 2022/03/09 (Wed.)
