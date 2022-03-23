@@ -113,6 +113,7 @@ List
 * (Medium) 1008. Construct Binary Search Tree from Preorder Traversal `Java` `C#`
 * (Medium) 1302. Deepest Leaves Sum `Java` `C#` `C++`
 * (Medium) 1305. All Elements in Two Binary Search Trees `Java`
+* (Medium) 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree `Java` `C#` `C++`
 * (Medium) 1382. Balance a Binary Search Tree `Java` `C#`
 
 #### Design

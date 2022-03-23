@@ -38,4 +38,5 @@
 	* (Medium) 1302. Deepest Leaves Sum
 	* (Easy)   1678. Goal Parser Interpretation
 	* (Easy)   1389. Create Target Array in the Given Order
+	* (Medium) 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
 
