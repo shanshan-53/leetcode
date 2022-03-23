@@ -108,4 +108,6 @@ Record
 	* (Easy)   1979. Find Greatest Common Divisor of Array
 	* (Medium) 0122. Best Time to Buy and Sell Stock II
 	* (Easy)   1704. Determine if String Halves Are Alike
+* 2022/03/23 (Wed.)
+	* (Medium) 0102. Binary Tree Level Order Traversal
 
