@@ -79,6 +79,7 @@ List
 * (Medium) 2079. Watering Plants `Java` `C#`
 
 #### Dynamic Programing
+* (Medium) 0062. Unique Paths `Java`
 * (Medium) 0122. Best Time to Buy and Sell Stock II
 
 #### Matrix
