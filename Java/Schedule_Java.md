@@ -31,6 +31,7 @@ Record
 	* (Medium) 1769. Minimum Number of Operations to Move All Balls to Each Box
 	* (Medium) 1302. Deepest Leaves Sum
 	* (Easy)   1678. Goal Parser Interpretation
+	* (Easy)   1389. Create Target Array in the Given Order
 * 2022/03/03 (Thu.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 * 2022/03/04 (Fri.)

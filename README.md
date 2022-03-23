@@ -5,6 +5,7 @@ List
 #### Array
 * (Easy)   0832. Flipping an Image `Java`
 * (Easy)   1313. Decompress Run-Length Encoded List `Java` `C#` `C++`
+* (Easy)   1389. Create Target Array in the Given Order `Java` `C#` `C++`
 * (Easy)   1431. Kids With the Greatest Number of Candies `Java` `C#` `C++`
 * (Easy)   1464. Maximum Product of Two Elements in an Array `Java`
 * (Easy)   1470. Shuffle the Array `Java` `C#` `C++`

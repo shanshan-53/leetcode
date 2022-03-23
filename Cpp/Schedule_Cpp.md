@@ -37,4 +37,5 @@
 * 2022/03/22 (Tue.)
 	* (Medium) 1302. Deepest Leaves Sum
 	* (Easy)   1678. Goal Parser Interpretation
+	* (Easy)   1389. Create Target Array in the Given Order
 
