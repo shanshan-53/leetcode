@@ -76,4 +76,5 @@
 	* (Easy)   2176. Count Equal and Divisible Pairs in an Array
 	* (Easy)   1979. Find Greatest Common Divisor of Array
 	* (Easy)   0804. Unique Morse Code Words
+	* (Easy)   1021. Remove Outermost Parentheses
 

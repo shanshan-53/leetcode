@@ -49,7 +49,7 @@ List
 * (Easy)   0709. To Lower Case `Java` `C#`
 * (Easy)   0771. Jewels and Stones `Java` `C#` `C++`
 * (Easy)   0804. Unique Morse Code Words `Java` `C#`
-* (Easy)   1021. Remove Outermost Parentheses `Java`
+* (Easy)   1021. Remove Outermost Parentheses `Java` `C#`
 * (Easy)   1108. Defanging an IP Address `Java` `C#` `C++`
 * (Easy)   1528. Shuffle String `Java` `C#` `C++`
 * (Easy)   1614. Maximum Nesting Depth of the Parentheses `Java` `C#`
