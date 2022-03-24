@@ -3,7 +3,6 @@ Leetcode
 List
 -
 #### Array
-* (Easy)   0832. Flipping an Image `Java`
 * (Easy)   1313. Decompress Run-Length Encoded List `Java` `C#` `C++`
 * (Easy)   1389. Create Target Array in the Given Order `Java` `C#` `C++`
 * (Easy)   1431. Kids With the Greatest Number of Candies `Java` `C#` `C++`
@@ -86,8 +85,9 @@ List
 
 #### Matrix
 * (Medium) 0054. Spiral Matrix `Java`
-* (Medium) 0807. Max Increase to Keep City Skyline `Java` `C#` `C++`
 * (Medium) 0289. Game of Life `Java`
+* (Medium) 0807. Max Increase to Keep City Skyline `Java` `C#` `C++`
+* (Easy)   0832. Flipping an Image `Java` `C#`
 * (Medium) 1605. Find Valid Matrix Given Row and Column Sums `Java`
 
 #### Bit Manipulation

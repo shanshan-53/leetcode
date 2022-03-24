@@ -82,4 +82,5 @@
 	* (Easy)   1021. Remove Outermost Parentheses
 * 2022/03/24 (Thu.)
 	* (Medium) 1305. All Elements in Two Binary Search Trees
+	* (Easy)   0832. Flipping an Image
 
