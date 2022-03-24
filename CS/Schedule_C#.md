@@ -83,4 +83,5 @@
 * 2022/03/24 (Thu.)
 	* (Medium) 1305. All Elements in Two Binary Search Trees
 	* (Easy)   0832. Flipping an Image
+	* (Easy)   2194. Cells in a Range on an Excel Sheet
 

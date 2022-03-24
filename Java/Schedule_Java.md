@@ -49,6 +49,7 @@ Record
 	* (Easy)   1662. Check If Two String Arrays are Equivalent
 	* (Easy)   2149. Rearrange Array Elements by Sign
 	* (Easy)   1684. Count the Number of Consistent Strings
+	* (Easy)   2194. Cells in a Range on an Excel Sheet
 * 2022/03/07 (Mon.)
 	* (Easy)   2103. Rings and Rods
 	* (Medium) 2161. Partition Array According to Given Pivot
