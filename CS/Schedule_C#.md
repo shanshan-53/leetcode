@@ -32,6 +32,7 @@
 	* (Easy)   1678. Goal Parser Interpretation
 	* (Easy)   1389. Create Target Array in the Given Order
 	* (Medium) 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
+	* (Medium) 0807. Max Increase to Keep City Skyline
 * 2022/03/09 (Wed.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Easy)   1588. Sum of All Odd Length Subarrays

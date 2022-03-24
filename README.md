@@ -86,6 +86,7 @@ List
 
 #### Matrix
 * (Medium) 0054. Spiral Matrix `Java`
+* (Medium) 0807. Max Increase to Keep City Skyline `Java` `C#` `C++`
 * (Medium) 0289. Game of Life `Java`
 * (Medium) 1605. Find Valid Matrix Given Row and Column Sums `Java`
 
