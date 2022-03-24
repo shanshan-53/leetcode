@@ -14,9 +14,46 @@
  * }
  */
 class Solution {
+    
     List<Integer> result = new ArrayList<>();
     public List<Integer> getAllElements(TreeNode root1, TreeNode root2) {
         
+        Stack<TreeNode> stack1 = new Stack<TreeNode>();
+        Stack<TreeNode> stack2 = new Stack<TreeNode>();
+        
+        addToStack(root1, stack1);
+        addToStack(root2, stack2);
+        
+        while(stack1.size() != 0 && stack2.size() != 0){
+            if(stack1.peek().val < stack2.peek().val){
+                result.add(stack1.peek().val);
+                stack1.pop();
+            }
+            else{
+                result.add(stack2.peek().val);
+                stack2.pop();
+            }
+        }
+        
+        while(stack1.size() != 0){
+            result.add(stack1.peek().val);
+            stack1.pop();
+        }
+        while(stack2.size() != 0){
+            result.add(stack2.peek().val);
+            stack2.pop();
+        }
+        
+        return result;
+    }
+    private void addToStack(TreeNode root, Stack<TreeNode> stack){
+        if(root != null){
+            addToStack(root.right, stack);
+            stack.push(root);
+            addToStack(root.left, stack);
+        }
+    }
+    /*  
         if(root1 != null){
             addToList(root1);
         }
@@ -36,6 +73,7 @@ class Solution {
         addToList(root.right);
         
     }
+    */
     /*
     public List<Integer> getAllElements(TreeNode root1, TreeNode root2) {
         List<Integer> result = new ArrayList<>();

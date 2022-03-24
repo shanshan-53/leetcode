@@ -114,4 +114,6 @@ Record
 	* (Medium) 0102. Binary Tree Level Order Traversal
 	* (Easy)   0557. Reverse Words in a String III
 	* (Medium) 0062. Unique Paths
+* 2022/03/24 (Thu.)
+	* (Medium) 1305. All Elements in Two Binary Search Trees
 
