@@ -31,6 +31,7 @@ List
 
 #### Linked List
 * (Easy)   1290. Convert Binary Number in a Linked List to Integer `Java` `C#`
+* (Mediun) 0328. Odd Even Linked List `Java`
 * (Medium) 2130. Maximum Twin Sum of a Linked List `Java` `C#`
 * (Medium) 2181. Merge Nodes in Between Zeros `Java` `C#` `C++`
 
