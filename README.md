@@ -63,6 +63,7 @@ List
 * (Easy)   1816. Truncate Sentence `Java` `C#`
 * (Easy)   1844. Replace All Digits with Characters `Java` `C#`
 * (Easy)   1967. Number of Strings That Appear as Substrings in Word `Java`
+* (Easy)   2000. Reverse Prefix of Word `Java`
 * (Easy)   2108. Find First Palindromic String in the Array `Java` `C#`
 
 #### Math

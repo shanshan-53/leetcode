@@ -116,4 +116,5 @@ Record
 	* (Medium) 0062. Unique Paths
 * 2022/03/24 (Thu.)
 	* (Medium) 1305. All Elements in Two Binary Search Trees
+	* (Easy)   2000. Reverse Prefix of Word
 
