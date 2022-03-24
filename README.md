@@ -65,6 +65,7 @@ List
 * (Easy)   1967. Number of Strings That Appear as Substrings in Word `Java`
 * (Easy)   2000. Reverse Prefix of Word `Java`
 * (Easy)   2108. Find First Palindromic String in the Array `Java` `C#`
+* (Easy)   2185. Counting Words With a Given Prefix `Java`
 
 #### Math
 * (Medium) 0238. Product of Array Except Self `Java`

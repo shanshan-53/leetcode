@@ -119,4 +119,5 @@ Record
 	* (Medium) 1305. All Elements in Two Binary Search Trees
 	* (Easy)   2000. Reverse Prefix of Word
 	* (Medium) 0328. Odd Even Linked List
+	* (Easy)   2185. Counting Words With a Given Prefix
 
