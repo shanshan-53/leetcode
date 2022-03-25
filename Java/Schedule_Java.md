@@ -121,4 +121,6 @@ Record
 	* (Easy)   2000. Reverse Prefix of Word
 	* (Medium) 0328. Odd Even Linked List
 	* (Easy)   2185. Counting Words With a Given Prefix
+* 2022/03/25 (Fri.)
+	* (Easy)   1370. Increasing Decreasing String
 
