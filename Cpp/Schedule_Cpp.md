@@ -42,4 +42,6 @@
 	* (Medium) 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
 * 2022/03/24 (Thu.)
 	* (Medium) 0807. Max Increase to Keep City Skyline
+* 2022/03/25 (Fri.)
+	* (Easy)   2194. Cells in a Range on an Excel Sheet
 

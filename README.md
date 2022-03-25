@@ -66,7 +66,7 @@ List
 * (Easy)   2000. Reverse Prefix of Word `Java`
 * (Easy)   2108. Find First Palindromic String in the Array `Java` `C#`
 * (Easy)   2185. Counting Words With a Given Prefix `Java`
-* (Easy)   2194. Cells in a Range on an Excel Sheet `Java` `C#`
+* (Easy)   2194. Cells in a Range on an Excel Sheet `Java` `C#` `C++`
 
 #### Math
 * (Medium) 0238. Product of Array Except Self `Java`
