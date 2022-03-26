@@ -44,4 +44,6 @@
 	* (Medium) 0807. Max Increase to Keep City Skyline
 * 2022/03/25 (Fri.)
 	* (Easy)   2194. Cells in a Range on an Excel Sheet
+* 2022/03/26 (Sun.)
+	* (Easy)   0938. Range Sum of BST
 

@@ -116,6 +116,7 @@ List
 #### Binary Search Tree
 * (Medium) 0102. Binary Tree Level Order Traversal `Java`
 * (Medium) 0230. Kth Smallest Element in a BST `Java`
+* (Easy)   0938. Range Sum of BST `Java` `C#` `C++`
 * (Medium) 1008. Construct Binary Search Tree from Preorder Traversal `Java` `C#`
 * (Medium) 1302. Deepest Leaves Sum `Java` `C#` `C++`
 * (Medium) 1305. All Elements in Two Binary Search Trees `Java` `C#`
