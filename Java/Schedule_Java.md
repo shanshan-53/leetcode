@@ -128,4 +128,5 @@ Record
 	* (Easy)   1370. Increasing Decreasing String
 * 2022/03/27 (Sun.)
 	* (Medium) 0894. All Possible Full Binary Trees
+	* (Easu)   0617. Merge Two Binary Trees
 
