@@ -87,6 +87,9 @@ List
 * (Medium) 0062. Unique Paths `Java`
 * (Medium) 0122. Best Time to Buy and Sell Stock II
 
+#### Recursion
+* (Medium) 0894. All Possible Full Binary Trees `Java`
+
 #### Matrix
 * (Medium) 0054. Spiral Matrix `Java`
 * (Medium) 0289. Game of Life `Java`

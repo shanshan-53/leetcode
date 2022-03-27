@@ -126,4 +126,6 @@ Record
 	* (Easy)   2185. Counting Words With a Given Prefix
 * 2022/03/25 (Fri.)
 	* (Easy)   1370. Increasing Decreasing String
+* 2022/03/27 (Sun.)
+	* (Medium) 0894. All Possible Full Binary Trees
 
