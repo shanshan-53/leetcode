@@ -34,6 +34,7 @@ Record
 	* (Easy)   1389. Create Target Array in the Given Order
 	* (Medium) 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
 	* (Medium) 0807. Max Increase to Keep City Skyline
+	* (Medium) 1282. Group the People Given the Group Size They Belong To
 * 2022/02/25 (Wed.)
 	* (Easy)   0938. Range Sum of BST
 * 2022/03/03 (Thu.)

@@ -34,6 +34,7 @@
 	* (Medium) 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
 	* (Medium) 0807. Max Increase to Keep City Skyline
 	* (Easy)   0938. Range Sum of BST
+	* (Medium) 1282. Group the People Given the Group Size They Belong To
 * 2022/03/09 (Wed.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Easy)   1588. Sum of All Odd Length Subarrays

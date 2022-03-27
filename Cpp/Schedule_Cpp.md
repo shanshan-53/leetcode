@@ -46,4 +46,5 @@
 	* (Easy)   2194. Cells in a Range on an Excel Sheet
 * 2022/03/26 (Sun.)
 	* (Easy)   0938. Range Sum of BST
+	* (Medium) 1282. Group the People Given the Group Size They Belong To
 
