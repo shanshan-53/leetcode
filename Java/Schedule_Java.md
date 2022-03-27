@@ -35,6 +35,7 @@ Record
 	* (Medium) 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree
 	* (Medium) 0807. Max Increase to Keep City Skyline
 	* (Medium) 1282. Group the People Given the Group Size They Belong To
+	* (Medium) 1315. Sum of Nodes with Even-Valued Grandparent
 * 2022/02/25 (Wed.)
 	* (Easy)   0938. Range Sum of BST
 * 2022/03/03 (Thu.)
