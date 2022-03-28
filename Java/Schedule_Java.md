@@ -133,4 +133,5 @@ Record
 	* (Easu)   0617. Merge Two Binary Trees
 * 2022/03/28 (Mon.)
 	* (Easy)   1812. Determine Color of a Chessboard Square
+	* (Medium) 0341. Flatten Nested List Iterator
 

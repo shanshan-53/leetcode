@@ -132,6 +132,7 @@ List
 * (Medium) 1382. Balance a Binary Search Tree `Java` `C#`
 
 #### Design
+* (Medium) 0341. Flatten Nested List Iterator `Java`
 * (Medium) 1476. Subrectangle Queries `Java` `C#` `C++`
 * (Easy)   1603. Design Parking System `Java` `C#` `C++`
 
