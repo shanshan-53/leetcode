@@ -131,4 +131,6 @@ Record
 * 2022/03/27 (Sun.)
 	* (Medium) 0894. All Possible Full Binary Trees
 	* (Easu)   0617. Merge Two Binary Trees
+* 2022/03/28 (Mon.)
+	* (Easy)   1812. Determine Color of a Chessboard Square
 
