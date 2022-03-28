@@ -92,4 +92,6 @@
 	* (Hard)  0980. Unique Paths III
 * 2022/03/27 (Sun.)
 	* (Easy)  1967. Number of Strings That Appear as Substrings in Word
+* 2022/03/28 (Mon.)
+	* (Easy)  1266. Minimum Time Visiting All Points
 
