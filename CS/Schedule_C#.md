@@ -36,6 +36,7 @@
 	* (Easy)   0938. Range Sum of BST
 	* (Medium) 1282. Group the People Given the Group Size They Belong To
 	* (Medium) 1315. Sum of Nodes with Even-Valued Grandparent
+	* (Easy)   1221. Split a String in Balanced Strings
 * 2022/03/09 (Wed.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Easy)   1588. Sum of All Odd Length Subarrays

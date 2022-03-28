@@ -48,4 +48,6 @@
 	* (Easy)   0938. Range Sum of BST
 	* (Medium) 1282. Group the People Given the Group Size They Belong To
 	* (Medium) 1315. Sum of Nodes with Even-Valued Grandparent
+* 2022/03/27 (Mon.)
+	* (Easy)   1221. Split a String in Balanced Strings
 
