@@ -104,6 +104,7 @@ List
 * (Easy)   1720. Decode XORed Array `Java` `C#` `C++`
 
 #### Two Pointer
+* (Medium) 0287. Find the Duplicate Number `Java`
 * (Medium) 1877. Minimize Maximum Pair Sum in Array `Java`
 
 #### Sorting

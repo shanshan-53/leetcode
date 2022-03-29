@@ -137,4 +137,5 @@ Record
 	* (Medium) 0341. Flatten Nested List Iterator
 * 2022/03/29 (Tue.)
 	* (Easy)   1436. Destination City
+	* (Medium) 0287. Find the Duplicate Number
 
