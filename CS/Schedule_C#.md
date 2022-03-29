@@ -37,6 +37,7 @@
 	* (Medium) 1282. Group the People Given the Group Size They Belong To
 	* (Medium) 1315. Sum of Nodes with Even-Valued Grandparent
 	* (Easy)   1221. Split a String in Balanced Strings
+	* (Easy)   1773. Count Items Matching a Rule
 * 2022/03/07 (Mon.)
 	* (Medium) 1038. Binary Search Tree to Greater Sum Tree
 * 2022/03/09 (Wed.)

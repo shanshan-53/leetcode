@@ -15,6 +15,7 @@ List
 * (Easy)   1672. Richest Customer Wealth `Java` `C#` `C++`
 * (Easy)   1725. Number Of Rectangles That Can Form The Largest Square `Java`
 * (Easy)   1732. Find the Highest Altitude `Java` `C#`
+* (Easy)   1773. Count Items Matching a Rule `Java` `C#` `C++`
 * (Easy)   1920. Build Array from Permutation `Java` `C#` `C++`
 * (Easy)   1929. Concatenation of Array `Java` `C#` `C++`
 * (Easy)   2006. Count Number of Pairs With Absolute Difference K `Java` `C#`
