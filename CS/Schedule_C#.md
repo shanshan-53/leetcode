@@ -96,4 +96,6 @@
 	* (Easy)  1967. Number of Strings That Appear as Substrings in Word
 * 2022/03/28 (Mon.)
 	* (Easy)  1266. Minimum Time Visiting All Points
+* 2022/03/29 (Tue.)
+	* (Easy)  1732. Find the Highest Altitude
 
