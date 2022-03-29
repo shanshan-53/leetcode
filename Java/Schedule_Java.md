@@ -139,4 +139,5 @@ Record
 * 2022/03/29 (Tue.)
 	* (Easy)   1436. Destination City
 	* (Medium) 0287. Find the Duplicate Number
+	* (Easy)   1374. Generate a String With Characters That Have Odd Counts
 
