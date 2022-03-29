@@ -99,4 +99,5 @@
 	* (Easy)  1266. Minimum Time Visiting All Points
 * 2022/03/29 (Tue.)
 	* (Easy)  1732. Find the Highest Altitude
+	* (Easy)  1323. Maximum 69 Number
 

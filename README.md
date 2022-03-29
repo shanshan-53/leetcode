@@ -77,7 +77,7 @@ List
 * (Medium) 0238. Product of Array Except Self `Java`
 * (Easy)   1266. Minimum Time Visiting All Points `Java` `C#`
 * (Easy)   1281. Subtract the Product and Sum of Digits of an Integer `Java` `C#` `C++`
-* (Easy)   1323. Maximum 69 Number `Java`
+* (Easy)   1323. Maximum 69 Number `Java` `C#`
 * (Easy)   1342. Number of Steps to Reduce a Number to Zero `Java` `C#` `C++`
 * (Medium) 1551. Minimum Operations to Make Array Equal `Java` `C#`
 * (Easy)   1688. Count of Matches in Tournament `Java` `C#`
