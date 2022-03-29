@@ -125,6 +125,7 @@ List
 * (Easy)   0617. Merge Two Binary Trees `Java`
 * (Easy)   0938. Range Sum of BST `Java` `C#` `C++`
 * (Medium) 1008. Construct Binary Search Tree from Preorder Traversal `Java` `C#`
+* (Medium) 1038. Binary Search Tree to Greater Sum Tree `Java` `C#` `C++`
 * (Medium) 1302. Deepest Leaves Sum `Java` `C#` `C++`
 * (Medium) 1305. All Elements in Two Binary Search Trees `Java` `C#`
 * (Medium) 1315. Sum of Nodes with Even-Valued Grandparent `Java` `C#` `C++`

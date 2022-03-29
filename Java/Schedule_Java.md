@@ -39,6 +39,7 @@ Record
 * 2022/02/25 (Wed.)
 	* (Easy)   0938. Range Sum of BST
 	* (Easy)   1221. Split a String in Balanced Strings
+	* (Medium) 1038. Binary Search Tree to Greater Sum Tree
 * 2022/03/03 (Thu.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 * 2022/03/04 (Fri.)

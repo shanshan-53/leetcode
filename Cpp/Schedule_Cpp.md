@@ -44,10 +44,13 @@
 	* (Medium) 0807. Max Increase to Keep City Skyline
 * 2022/03/25 (Fri.)
 	* (Easy)   2194. Cells in a Range on an Excel Sheet
-* 2022/03/26 (Sun.)
+* 2022/03/26 (Sat.)
 	* (Easy)   0938. Range Sum of BST
 	* (Medium) 1282. Group the People Given the Group Size They Belong To
+* 2022/03/27 (Sun.)
 	* (Medium) 1315. Sum of Nodes with Even-Valued Grandparent
-* 2022/03/27 (Mon.)
+* 2022/03/28 (Mon.)
 	* (Easy)   1221. Split a String in Balanced Strings
+* 2022/03/29 (Tue.)
+	* (Medium) 1038. Binary Search Tree to Greater Sum Tree
 
