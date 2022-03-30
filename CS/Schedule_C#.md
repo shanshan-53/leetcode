@@ -102,6 +102,8 @@
 * 2022/03/29 (Tue.)
 	* (Easy)  1732. Find the Highest Altitude
 	* (Easy)  1323. Maximum 69 Number
-* 2022/03/20 (Wed.)
+* 2022/03/30 (Wed.)
 	* (Easy)  1725. Number Of Rectangles That Can Form The Largest Square
+* 2022/03/31 (Thu.)
+	* (Easy)  1309. Decrypt String from Alphabet to Integer Mapping
 
