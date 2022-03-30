@@ -141,4 +141,6 @@ Record
 	* (Easy)   1436. Destination City
 	* (Medium) 0287. Find the Duplicate Number
 	* (Easy)   1374. Generate a String With Characters That Have Odd Counts
+* 2022/03/30 (Wed.)
+	* (Medium) 0921. Minimum Add to Make Parentheses Valid
 

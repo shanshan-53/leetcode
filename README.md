@@ -49,6 +49,9 @@ List
 * (Easy)   2103. Rings and Rods `Java` `C#`
 * (Easy)   2176. Count Equal and Divisible Pairs in an Array `Java` `C#`
 
+#### Stack
+* (Medium) 0921. Minimum Add to Make Parentheses Valid `Java`
+
 #### String
 * (Easy)   0557. Reverse Words in a String III `Java`
 * (Easy)   0709. To Lower Case `Java` `C#`
