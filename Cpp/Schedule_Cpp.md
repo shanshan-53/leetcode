@@ -54,4 +54,6 @@
 * 2022/03/29 (Tue.)
 	* (Medium) 1038. Binary Search Tree to Greater Sum Tree
 	* (Easy)   1773. Count Items Matching a Rule
+* 2022/03/30 (Wed.)
+	* (Easy)   1859. Sorting the Sentence
 
