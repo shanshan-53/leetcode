@@ -42,6 +42,7 @@ Record
 	* (Medium) 1038. Binary Search Tree to Greater Sum Tree
 	* (Easy)   1773. Count Items Matching a Rule
 	* (Easy)   1859. Sorting the Sentence
+	* (Easy)   1486. XOR Operation in an Array
 * 2022/03/03 (Thu.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 * 2022/03/04 (Fri.)

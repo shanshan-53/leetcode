@@ -41,6 +41,7 @@
 * 2022/03/07 (Mon.)
 	* (Medium) 1038. Binary Search Tree to Greater Sum Tree
 	* (Easy)   1859. Sorting the Sentence
+	* (Easy)   1486. XOR Operation in an Array
 * 2022/03/09 (Wed.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Easy)   1588. Sum of All Odd Length Subarrays

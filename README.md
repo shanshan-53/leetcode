@@ -107,6 +107,7 @@ List
 * (Medium) 1605. Find Valid Matrix Given Row and Column Sums `Java`
 
 #### Bit Manipulation
+* (Easy)   1486. XOR Operation in an Array `Java` `C#` `C++`
 * (Easy)   1720. Decode XORed Array `Java` `C#` `C++`
 
 #### Two Pointer

@@ -56,4 +56,6 @@
 	* (Easy)   1773. Count Items Matching a Rule
 * 2022/03/30 (Wed.)
 	* (Easy)   1859. Sorting the Sentence
+* 2022/03/31 (Thu.)
+	* (Easy)   1486. XOR Operation in an Array
 
