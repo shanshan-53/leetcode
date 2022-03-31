@@ -145,3 +145,7 @@ Record
 * 2022/03/30 (Wed.)
 	* (Medium) 0921. Minimum Add to Make Parentheses Valid
 	* (Medium) 0105. Construct Binary Tree from Preorder and Inorder Traversal
+* 2022/03/31 (Thu.)
+	* (Easy)   1295. Find Numbers with Even Number of Digits
+
+
