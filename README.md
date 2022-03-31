@@ -121,6 +121,7 @@ List
 * (Medium) 1329. Sort the Matrix Diagonally `Java` `C#`
 * (Medium) 1561. Maximum Number of Coins You Can Get `Java`
 * (Medium) 1630. Arithmetic Subarrays `Java`
+* (Medium) 1637. Widest Vertical Area Between Two Points Containing No Points `Java` `C#` `C++`
 * (Medium) 1877. Minimize Maximum Pair Sum in Array `Java` `C#`
 * (Easy)   1913. Maximum Product Difference Between Two Pairs `Java` `C#`
 * (Easy)   2089. Find Target Indices After Sorting Array `Java` `C#`

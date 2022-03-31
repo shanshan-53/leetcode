@@ -58,4 +58,5 @@
 	* (Easy)   1859. Sorting the Sentence
 * 2022/03/31 (Thu.)
 	* (Easy)   1486. XOR Operation in an Array
+	* (Medium) 1637. Widest Vertical Area Between Two Points Containing No Points
 
