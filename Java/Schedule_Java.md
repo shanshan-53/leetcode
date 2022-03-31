@@ -149,4 +149,5 @@ Record
 * 2022/03/31 (Thu.)
 	* (Easy)   1295. Find Numbers with Even Number of Digits
 	* (Medium) 0454. 4Sum II
+	* (Easy)   1941. Check if All Characters Have Equal Number of Occurrences
 
