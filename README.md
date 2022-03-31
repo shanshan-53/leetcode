@@ -38,6 +38,7 @@ List
 
 #### Hash Table
 * (Medium) 0347. Top K Frequent Elements `Java`
+* (Medium) 0454. 4Sum II `Java`
 * (Medium) 0763. Partition Labels `Java`
 * (Easy)   1252. Cells with Odd Values in a Matrix `Java`
 * (Medium) 1282. Group the People Given the Group Size They Belong To `Java` `C#` `C++`
