@@ -107,4 +107,6 @@
 	* (Easy)  1725. Number Of Rectangles That Can Form The Largest Square
 * 2022/03/31 (Thu.)
 	* (Easy)  1309. Decrypt String from Alphabet to Integer Mapping
+	* (Easy)  1863. Sum of All Subset XOR Totals
+
 
