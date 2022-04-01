@@ -44,6 +44,7 @@ Record
 	* (Easy)   1859. Sorting the Sentence
 	* (Easy)   1486. XOR Operation in an Array
 	* (Medium) 1637. Widest Vertical Area Between Two Points Containing No Points
+	* (Easy)   1791. Find Center of Star Graph
 * 2022/03/03 (Thu.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 * 2022/03/04 (Fri.)

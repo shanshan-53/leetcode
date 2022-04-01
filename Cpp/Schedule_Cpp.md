@@ -59,4 +59,6 @@
 * 2022/03/31 (Thu.)
 	* (Easy)   1486. XOR Operation in an Array
 	* (Medium) 1637. Widest Vertical Area Between Two Points Containing No Points
+* 2022/04/01 (Fri.)
+	* (Easy)   1791. Find Center of Star Graph
 
