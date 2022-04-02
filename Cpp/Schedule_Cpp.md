@@ -61,4 +61,6 @@
 	* (Medium) 1637. Widest Vertical Area Between Two Points Containing No Points
 * 2022/04/01 (Fri.)
 	* (Easy)   1791. Find Center of Star Graph
+* 2022/04/03 (Sun.)
+	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 
