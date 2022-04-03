@@ -98,18 +98,19 @@
 	* (Easy)   0832. Flipping an Image
 	* (Easy)   2194. Cells in a Range on an Excel Sheet
 * 2022/03/25 (Fri.)
-	* (Hard)  0980. Unique Paths III
+	* (Hard)   0980. Unique Paths III
 * 2022/03/27 (Sun.)
-	* (Easy)  1967. Number of Strings That Appear as Substrings in Word
+	* (Easy)   1967. Number of Strings That Appear as Substrings in Word
 * 2022/03/28 (Mon.)
-	* (Easy)  1266. Minimum Time Visiting All Points
+	* (Easy)   1266. Minimum Time Visiting All Points
 * 2022/03/29 (Tue.)
-	* (Easy)  1732. Find the Highest Altitude
-	* (Easy)  1323. Maximum 69 Number
+	* (Easy)   1732. Find the Highest Altitude
+	* (Easy)   1323. Maximum 69 Number
 * 2022/03/30 (Wed.)
-	* (Easy)  1725. Number Of Rectangles That Can Form The Largest Square
+	* (Easy)   1725. Number Of Rectangles That Can Form The Largest Square
 * 2022/03/31 (Thu.)
-	* (Easy)  1309. Decrypt String from Alphabet to Integer Mapping
-	* (Easy)  1863. Sum of All Subset XOR Totals
-
+	* (Easy)   1309. Decrypt String from Alphabet to Integer Mapping
+	* (Easy)   1863. Sum of All Subset XOR Totals
+* 2022/04/03 (Sun.)
+	* (Medium) 2120. Execution of All Suffix Instructions Staying in a Grid
 

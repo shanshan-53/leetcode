@@ -62,6 +62,7 @@ Record
 	* (Easy)   2149. Rearrange Array Elements by Sign
 	* (Easy)   1684. Count the Number of Consistent Strings
 	* (Easy)   2194. Cells in a Range on an Excel Sheet
+	* (Medium) 2120. Execution of All Suffix Instructions Staying in a Grid
 * 2022/03/07 (Mon.)
 	* (Easy)   2103. Rings and Rods
 	* (Medium) 2161. Partition Array According to Given Pivot
