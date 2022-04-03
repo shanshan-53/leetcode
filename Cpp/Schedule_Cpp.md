@@ -63,4 +63,5 @@
 	* (Easy)   1791. Find Center of Star Graph
 * 2022/04/03 (Sun.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
+	* (Medium) 0654. Maximum Binary Tree
 
