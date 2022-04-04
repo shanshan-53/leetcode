@@ -64,4 +64,6 @@
 * 2022/04/03 (Sun.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Medium) 0654. Maximum Binary Tree
+* 2022/04/04 (Mon.)
+	* (Easy)   1614. Maximum Nesting Depth of the Parentheses 
 

@@ -66,7 +66,7 @@ List
 * (Easy)   1221. Split a String in Balanced Strings `Java` `C#` `C++`
 * (Easy)   1374. Generate a String With Characters That Have Odd Counts `Java`
 * (Easy)   1528. Shuffle String `Java` `C#` `C++`
-* (Easy)   1614. Maximum Nesting Depth of the Parentheses `Java` `C#`
+* (Easy)   1614. Maximum Nesting Depth of the Parentheses `Java` `C#` `C++`
 * (Easy)   1662. Check If Two String Arrays are Equivalent `Java` `C#`
 * (Easy)   1678. Goal Parser Interpretation `Java` `C#` `C++`
 * (Easy)   1684. Count the Number of Consistent Strings `Java` `C#`
