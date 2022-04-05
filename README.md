@@ -31,7 +31,6 @@ List
 * (Medium) 1409. Queries on a Permutation With Key `Java` `C#`
 
 #### Linked List
-* (Easy)   1290. Convert Binary Number in a Linked List to Integer `Java` `C#`
 * (Mediun) 0328. Odd Even Linked List `Java`
 * (Medium) 2130. Maximum Twin Sum of a Linked List `Java` `C#`
 * (Medium) 2181. Merge Nodes in Between Zeros `Java` `C#` `C++`
@@ -113,6 +112,7 @@ List
 * (Medium) 1605. Find Valid Matrix Given Row and Column Sums `Java`
 
 #### Bit Manipulation
+* (Easy)   1290. Convert Binary Number in a Linked List to Integer `Java` `C#` `C++`
 * (Easy)   1486. XOR Operation in an Array `Java` `C#` `C++`
 * (Easy)   1720. Decode XORed Array `Java` `C#` `C++`
 
