@@ -114,4 +114,6 @@
 	* (Easy)   1863. Sum of All Subset XOR Totals
 * 2022/04/03 (Sun.)
 	* (Medium) 2120. Execution of All Suffix Instructions Staying in a Grid
+* 2022/04/06 (Wed.)
+	* (Medium) 1630. Arithmetic Subarrays
 
