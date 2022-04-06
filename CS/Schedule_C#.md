@@ -43,7 +43,8 @@
 	* (Easy)   1859. Sorting the Sentence
 	* (Easy)   1486. XOR Operation in an Array
 	* (Medium) 1637. Widest Vertical Area Between Two Points Containing No Points
-	* (easy)   1791. Find Center of Star Graph
+	* (Easy)   1791. Find Center of Star Graph
+	* (Medium) 0535. Encode and Decode TinyURL
 * 2022/03/08 (Tue.)
 	* (Medium) 0654. Maximum Binary Tree
 * 2022/03/09 (Wed.)

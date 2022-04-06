@@ -68,4 +68,6 @@
 	* (Easy)   1614. Maximum Nesting Depth of the Parentheses 
 * 2022/04/05 (Tue.)
 	* (Easy)   1290. Convert Binary Number in a Linked List to Integer
+* 2022/04/06 (Wed.)
+	* (Medium) 0535. Encode and Decode TinyURL
 

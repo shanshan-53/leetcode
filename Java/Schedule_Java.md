@@ -48,6 +48,7 @@ Record
 * 2022/03/03 (Thu.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Medium) 0654. Maximum Binary Tree
+	* (Medium) 0535. Encode and Decode TinyURL
 * 2022/03/04 (Fri.)
 	* (Easy)   1588. Sum of All Odd Length Subarrays
 	* (Easy)   1614. Maximum Nesting Depth of the Parentheses
