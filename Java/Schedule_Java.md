@@ -158,4 +158,5 @@ Record
 	* (Easy)   2119. A Number After a Double Reversal
 * 2022/04/07 (Thu.)
 	* (Easy)   1304. Find N Unique Integers Sum up to Zero
+	* (Mediu)  0384. Shuffle an Array
 
