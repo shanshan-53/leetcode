@@ -41,7 +41,7 @@ List
 * (Medium) 0454. 4Sum II `Java`
 * (Medium) 0535. Encode and Decode TinyURL `Java` `C#` `C++`
 * (Medium) 0763. Partition Labels `Java`
-* (Easy)   1252. Cells with Odd Values in a Matrix `Java`
+* (Easy)   1252. Cells with Odd Values in a Matrix `Java` `C#`
 * (Medium) 1282. Group the People Given the Group Size They Belong To `Java` `C#` `C++`
 * (Easy)   1309. Decrypt String from Alphabet to Integer Mapping `Java` `C#`
 * (Easy)   1365. How Many Numbers Are Smaller Than the Current Number `Java` `C#` `C++`

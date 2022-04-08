@@ -116,4 +116,6 @@
 	* (Medium) 2120. Execution of All Suffix Instructions Staying in a Grid
 * 2022/04/06 (Wed.)
 	* (Medium) 1630. Arithmetic Subarrays
+* 2022/04/08 (Fri.)
+	* (Easy)   1252. Cells with Odd Values in a Matrix
 
