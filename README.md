@@ -100,6 +100,9 @@ List
 * (Medium) 2079. Watering Plants `Java` `C#`
 * (Easy)   2119. A Number After a Double Reversal `Java`
 
+#### Prefix Sum
+* (Easy)   1588. Sum of All Odd Length Subarrays `Java` `C#` `C++`
+
 #### Dynamic Programing
 * (Medium) 0062. Unique Paths `Java`
 * (Medium) 0122. Best Time to Buy and Sell Stock II

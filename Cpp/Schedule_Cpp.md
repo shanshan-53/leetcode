@@ -70,4 +70,6 @@
 	* (Easy)   1290. Convert Binary Number in a Linked List to Integer
 * 2022/04/06 (Wed.)
 	* (Medium) 0535. Encode and Decode TinyURL
+* 2022/04/08 (Fri.)
+	* (Easy)   1588. Sum of All Odd Length Subarrays
 
