@@ -159,4 +159,6 @@ Record
 * 2022/04/07 (Thu.)
 	* (Easy)   1304. Find N Unique Integers Sum up to Zero
 	* (Mediu)  0384. Shuffle an Array
+* 2022/04/09(Sat.)
+	* (Easy)   0728. Self Dividing Numbers
 
