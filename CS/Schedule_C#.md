@@ -119,4 +119,6 @@
 	* (Medium) 1630. Arithmetic Subarrays
 * 2022/04/08 (Fri.)
 	* (Easy)   1252. Cells with Odd Values in a Matrix
+* 2022/04/11 (Mon.)
+	* (Easy)   1464. Maximum Product of Two Elements in an Array
 
