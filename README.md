@@ -117,6 +117,7 @@ List
 * (Medium) 0807. Max Increase to Keep City Skyline `Java` `C#` `C++`
 * (Easy)   0832. Flipping an Image `Java` `C#`
 * (Medium) 1605. Find Valid Matrix Given Row and Column Sums `Java`
+* (Medium) 2125. Number of Laser Beams in a Bank `Java` `C#` `C++`
 
 #### Bit Manipulation
 * (Easy)   1290. Convert Binary Number in a Linked List to Integer `Java` `C#` `C++`

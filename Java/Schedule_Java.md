@@ -45,6 +45,7 @@ Record
 	* (Easy)   1486. XOR Operation in an Array
 	* (Medium) 1637. Widest Vertical Area Between Two Points Containing No Points
 	* (Easy)   1791. Find Center of Star Graph
+	* (Medium) 2125. Number of Laser Beams in a Bank
 * 2022/03/03 (Thu.)
 	* (Easy)   2006. Count Number of Pairs With Absolute Difference K
 	* (Medium) 0654. Maximum Binary Tree
