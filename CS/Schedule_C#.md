@@ -121,4 +121,5 @@
 	* (Easy)   1252. Cells with Odd Values in a Matrix
 * 2022/04/11 (Mon.)
 	* (Easy)   1464. Maximum Product of Two Elements in an Array
+	* (Medium) 1557. Minimum Number of Vertices to Reach All Nodes
 

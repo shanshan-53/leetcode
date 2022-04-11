@@ -141,7 +141,7 @@ List
 
 #### Graph
 * (Medium) 0797. All Paths From Source to Target `Java`
-* (Medium) 1557. Minimum Number of Vertices to Reach All Nodes `Java`
+* (Medium) 1557. Minimum Number of Vertices to Reach All Nodes `Java` `C#`
 * (Easy)   1791. Find Center of Star Graph `Java` `C#` `C++`
 
 #### Binary Search Tree
