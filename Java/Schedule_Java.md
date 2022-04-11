@@ -160,6 +160,8 @@ Record
 * 2022/04/07 (Thu.)
 	* (Easy)   1304. Find N Unique Integers Sum up to Zero
 	* (Mediu)  0384. Shuffle an Array
-* 2022/04/09(Sat.)
+* 2022/04/09 (Sat.)
 	* (Easy)   0728. Self Dividing Numbers
+* 2022/04/11 (Mon.)
+	* (Easy)   1450. Number of Students Doing Homework at a Given Time
 

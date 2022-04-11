@@ -8,6 +8,7 @@ List
 * (Easy)   1313. Decompress Run-Length Encoded List `Java` `C#` `C++`
 * (Easy)   1389. Create Target Array in the Given Order `Java` `C#` `C++`
 * (Easy)   1431. Kids With the Greatest Number of Candies `Java` `C#` `C++`
+* (Easy)   1450. Number of Students Doing Homework at a Given Time `Java`
 * (Easy)   1464. Maximum Product of Two Elements in an Array `Java` `C#`
 * (Easy)   1470. Shuffle the Array `Java` `C#` `C++`
 * (Easy)   1480. Running Sum of 1d Array `Java` `C#` `C++`
