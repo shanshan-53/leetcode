@@ -164,4 +164,5 @@ Record
 	* (Easy)   0728. Self Dividing Numbers
 * 2022/04/11 (Mon.)
 	* (Easy)   1450. Number of Students Doing Homework at a Given Time
+	* (Medium) 0075. Sort Colors
 
