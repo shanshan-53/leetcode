@@ -74,4 +74,6 @@
 	* (Easy)   1588. Sum of All Odd Length Subarrays
 * 2022/04/09 (Sat.)
 	* (Medium) 2125. Number of Laser Beams in a Bank 
+* 2022/04/11 (Mon.)
+	* (Easy)   2037. Minimum Number of Moves to Seat Everyone
 

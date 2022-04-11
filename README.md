@@ -22,7 +22,6 @@ List
 * (Easy)   1929. Concatenation of Array `Java` `C#` `C++`
 * (Easy)   2006. Count Number of Pairs With Absolute Difference K `Java` `C#`
 * (Easy)   2011. Final Value of Variable After Performing Operations `Java` `C#` `C++`
-* (Easy)   2037. Minimum Number of Moves to Seat Everyone `Java` `C#`
 * (Easy)   2114. Maximum Number of Words Found in Sentences `Java` `C#` `C++`
 * (Easy)   2149. Rearrange Array Elements by Sign `Java` `C#`
 * (Medium) 2161. Partition Array According to Given Pivot `Java` `C#`
@@ -136,6 +135,7 @@ List
 * (Medium) 1637. Widest Vertical Area Between Two Points Containing No Points `Java` `C#` `C++`
 * (Medium) 1877. Minimize Maximum Pair Sum in Array `Java` `C#`
 * (Easy)   1913. Maximum Product Difference Between Two Pairs `Java` `C#`
+* (Easy)   2037. Minimum Number of Moves to Seat Everyone `Java` `C#` `C++`
 * (Easy)   2089. Find Target Indices After Sorting Array `Java` `C#`
 * (Easy)   2160. Minimum Sum of Four Digit Number After Splitting Digits `Java` `C#` `C++`
 
