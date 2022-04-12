@@ -76,4 +76,6 @@
 	* (Medium) 2125. Number of Laser Beams in a Bank 
 * 2022/04/11 (Mon.)
 	* (Easy)   2037. Minimum Number of Moves to Seat Everyone
+* 2022/04/12 (Tue.)
+	* (Easy)   1688. Count of Matches in Tournament
 
