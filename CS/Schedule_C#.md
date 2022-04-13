@@ -124,4 +124,6 @@
 	* (Medium) 1557. Minimum Number of Vertices to Reach All Nodes
 * 2022/04/12 (Tue.)
 	* (Medium) 1605. Find Valid Matrix Given Row and Column Sums
+* 2022/04/13 (Wed.)
+	* (Easy)   0557. Reverse Words in a String III
 

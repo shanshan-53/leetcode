@@ -58,7 +58,7 @@ List
 * (Medium) 0921. Minimum Add to Make Parentheses Valid `Java`
 
 #### String
-* (Easy)   0557. Reverse Words in a String III `Java`
+* (Easy)   0557. Reverse Words in a String III `Java` `C#`
 * (Easy)   0709. To Lower Case `Java` `C#`
 * (Easy)   0771. Jewels and Stones `Java` `C#` `C++`
 * (Easy)   0804. Unique Morse Code Words `Java` `C#`
