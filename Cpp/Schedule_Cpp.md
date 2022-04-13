@@ -78,4 +78,6 @@
 	* (Easy)   2037. Minimum Number of Moves to Seat Everyone
 * 2022/04/12 (Tue.)
 	* (Easy)   1688. Count of Matches in Tournament
+* 2022/04/13 (Wed.)
+	* (Medium) 1409. Queries on a Permutation With Key
 

@@ -29,7 +29,7 @@ List
 * (Easy)   2176. Count Equal and Divisible Pairs in an Array `Java`
 
 #### List
-* (Medium) 1409. Queries on a Permutation With Key `Java` `C#`
+* (Medium) 1409. Queries on a Permutation With Key `Java` `C#` `C++`
 
 #### Linked List
 * (Mediun) 0328. Odd Even Linked List `Java`
