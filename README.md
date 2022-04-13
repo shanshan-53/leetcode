@@ -115,6 +115,7 @@ List
 
 #### Matrix
 * (Medium) 0054. Spiral Matrix `Java`
+* (Medium) 0073. Set Matrix Zeroes `Java`
 * (Medium) 0289. Game of Life `Java`
 * (Medium) 0807. Max Increase to Keep City Skyline `Java` `C#` `C++`
 * (Easy)   0832. Flipping an Image `Java` `C#`
