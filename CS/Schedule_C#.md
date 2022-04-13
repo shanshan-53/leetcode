@@ -46,6 +46,7 @@
 	* (Easy)   1791. Find Center of Star Graph
 	* (Medium) 0535. Encode and Decode TinyURL
 	* (Medium) 2125. Number of Laser Beams in a Bank
+	* (Easy)   1656. Design an Ordered Stream
 * 2022/03/08 (Tue.)
 	* (Medium) 0654. Maximum Binary Tree
 * 2022/03/09 (Wed.)

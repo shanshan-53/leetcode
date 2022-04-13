@@ -168,6 +168,7 @@ List
 * (Medium) 0341. Flatten Nested List Iterator `Java`
 * (Medium) 1476. Subrectangle Queries `Java` `C#` `C++`
 * (Easy)   1603. Design Parking System `Java` `C#` `C++`
+* (Easy)   1656. Design an Ordered Stream `Java` `C#` `C++`
 
 #### BackTracking
 * (Medium) 0797. All Paths From Source to Target `Java` `C#` 
