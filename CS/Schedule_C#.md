@@ -127,4 +127,6 @@
 	* (Medium) 1605. Find Valid Matrix Given Row and Column Sums
 * 2022/04/13 (Wed.)
 	* (Easy)   0557. Reverse Words in a String III
+* 2022/04/14 (Thu.)
+	* (Medium) 1561. Maximum Number of Coins You Can Get
 
