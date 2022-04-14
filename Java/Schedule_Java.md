@@ -172,4 +172,5 @@ Record
 	* (Medium) 0073. Set Matrix Zeroes
 * 2022/04/14 (Thu.)
 	* (Medium) 1347. Minimum Number of Steps to Make Two Strings Anagram
+	* (Medium) 0079. Word Search
 

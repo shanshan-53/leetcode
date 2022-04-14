@@ -172,6 +172,7 @@ List
 * (Easy)   1656. Design an Ordered Stream `Java` `C#` `C++`
 
 #### BackTracking
+* (Medium) 0079. Word Search `Java`
 * (Medium) 0797. All Paths From Source to Target `Java` `C#` 
 * (Hard)   0980. Unique Paths III `Java` `C#`
 * (Easy)   1863. Sum of All Subset XOR Totals `Java` `C#`
