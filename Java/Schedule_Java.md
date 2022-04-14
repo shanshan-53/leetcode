@@ -170,4 +170,6 @@ Record
 	* (Easy)   1837. Sum of Digits in Base K
 	* (Medium) 1823. Find the Winner of the Circular Game
 	* (Medium) 0073. Set Matrix Zeroes
+* 2022/04/14 (Thu.)
+	* (Medium) 1347. Minimum Number of Steps to Make Two Strings Anagram
 

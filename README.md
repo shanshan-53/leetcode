@@ -44,6 +44,7 @@ List
 * (Easy)   1252. Cells with Odd Values in a Matrix `Java` `C#`
 * (Medium) 1282. Group the People Given the Group Size They Belong To `Java` `C#` `C++`
 * (Easy)   1309. Decrypt String from Alphabet to Integer Mapping `Java` `C#`
+* (Medium) 1347. Minimum Number of Steps to Make Two Strings Anagram `Java`
 * (Easy)   1365. How Many Numbers Are Smaller Than the Current Number `Java` `C#` `C++`
 * (Easy)   1370. Increasing Decreasing String `Java`
 * (Easy)   1436. Destination City `Java`
