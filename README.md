@@ -33,7 +33,7 @@ List
 
 #### Linked List
 * (Mediun) 0328. Odd Even Linked List `Java`
-* (Medium) 2130. Maximum Twin Sum of a Linked List `Java` `C#`
+* (Medium) 2130. Maximum Twin Sum of a Linked List `Java` `C#` `C++`
 * (Medium) 2181. Merge Nodes in Between Zeros `Java` `C#` `C++`
 
 #### Hash Table

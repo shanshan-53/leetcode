@@ -81,4 +81,6 @@
 * 2022/04/13 (Wed.)
 	* (Medium) 1409. Queries on a Permutation With Key
 	* (Medium) 1656. Design an Ordered Stream
+* 2022/04/14 (Thu.)
+	* (Medium) 2130. Maximum Twin Sum of a Linked List
 
