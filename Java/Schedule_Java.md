@@ -173,4 +173,6 @@ Record
 * 2022/04/14 (Thu.)
 	* (Medium) 1347. Minimum Number of Steps to Make Two Strings Anagram
 	* (Medium) 0079. Word Search
+* 2022/04/18 (Mon.)
+	* (Medium) 1079. Letter Tile Possibilities
 
