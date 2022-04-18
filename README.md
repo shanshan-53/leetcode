@@ -25,7 +25,6 @@ List
 * (Easy)   2011. Final Value of Variable After Performing Operations `Java` `C#` `C++`
 * (Easy)   2114. Maximum Number of Words Found in Sentences `Java` `C#` `C++`
 * (Easy)   2149. Rearrange Array Elements by Sign `Java` `C#`
-* (Medium) 2161. Partition Array According to Given Pivot `Java` `C#`
 * (Easy)   2176. Count Equal and Divisible Pairs in an Array `Java`
 
 #### List
@@ -131,6 +130,7 @@ List
 #### Two Pointer
 * (Medium) 0287. Find the Duplicate Number `Java`
 * (Medium) 1877. Minimize Maximum Pair Sum in Array `Java`
+* (Medium) 2161. Partition Array According to Given Pivot `Java` `C#` `C++`
 
 #### Sorting
 * (Medium) 0075. Sort Colors `Java`
