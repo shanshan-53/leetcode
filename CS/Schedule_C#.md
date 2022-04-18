@@ -129,4 +129,6 @@
 	* (Easy)   0557. Reverse Words in a String III
 * 2022/04/14 (Thu.)
 	* (Medium) 1561. Maximum Number of Coins You Can Get
+* 2022/04/18 (Mon.)
+	* (Easy)   1827. Minimum Operations to Make the Array Increasing
 
