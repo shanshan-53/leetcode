@@ -175,4 +175,5 @@ Record
 	* (Medium) 0079. Word Search
 * 2022/04/18 (Mon.)
 	* (Medium) 1079. Letter Tile Possibilities
+	* (Medium) 0200. Number of Islands
 
