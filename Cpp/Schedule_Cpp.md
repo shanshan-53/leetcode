@@ -87,4 +87,5 @@
 	* (Medium) 2161. Partition Array According to Given Pivot
 * 2022/04/19 (Tue.)
 	* (Medium) 2149. Rearrange Array Elements by Sign
+	* (Easy)   1662. Check If Two String Arrays are Equivalent
 
