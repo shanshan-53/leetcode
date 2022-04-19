@@ -178,4 +178,5 @@ Record
 	* (Medium) 0200. Number of Islands
 * 2022/04/19 (Tue.)
 	* (Easy)   0897. Increasing Order Search Tree
+	* (Medium) 0148. Sort List
 

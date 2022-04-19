@@ -31,6 +31,7 @@ List
 * (Medium) 1409. Queries on a Permutation With Key `Java` `C#` `C++`
 
 #### Linked List
+* (Medium) 0148. Sort List `Java`
 * (Mediun) 0328. Odd Even Linked List `Java`
 * (Medium) 2130. Maximum Twin Sum of a Linked List `Java` `C#` `C++`
 * (Medium) 2181. Merge Nodes in Between Zeros `Java` `C#` `C++`
