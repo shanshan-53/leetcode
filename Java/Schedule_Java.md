@@ -176,4 +176,6 @@ Record
 * 2022/04/18 (Mon.)
 	* (Medium) 1079. Letter Tile Possibilities
 	* (Medium) 0200. Number of Islands
+* 2022/04/19 (Tue.)
+	* (Easy)   0897. Increasing Order Search Tree
 
