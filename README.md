@@ -54,6 +54,7 @@ List
 * (Easy)   2006. Count Number of Pairs With Absolute Difference K `Java` `C#` `C++`
 * (Easy)   2103. Rings and Rods `Java` `C#` `C++`
 * (Easy)   2176. Count Equal and Divisible Pairs in an Array `Java` `C#`
+* (Easy)   2206. Divide Array Into Equal Pairs `Java`
 
 #### Stack
 * (Medium) 0921. Minimum Add to Make Parentheses Valid `Java`

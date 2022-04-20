@@ -183,4 +183,5 @@ Record
 	* (Easy)   0590. N-ary Tree Postorder Traversal
 	* (Easy)   2235. Add Two Integers
 	* (Easy)   2236. Root Equals Sum of Children
+	* (Easy)   2206. Divide Array Into Equal Pairs
 
