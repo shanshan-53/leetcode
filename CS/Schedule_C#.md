@@ -133,4 +133,6 @@
 	* (Easy)   1827. Minimum Operations to Make the Array Increasing
 * 2022/04/19 (Tue.)
 	* (Easy)   1704. Determine if String Halves Are Alike
+* 2022/04/20 (Wed.)
+	* (Easy)   2000. Reverse Prefix of Word
 
