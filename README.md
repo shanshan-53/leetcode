@@ -71,7 +71,7 @@ List
 * (Easy)   1614. Maximum Nesting Depth of the Parentheses `Java` `C#` `C++`
 * (Easy)   1662. Check If Two String Arrays are Equivalent `Java` `C#` `C++`
 * (Easy)   1678. Goal Parser Interpretation `Java` `C#` `C++`
-* (Easy)   1684. Count the Number of Consistent Strings `Java` `C#`
+* (Easy)   1684. Count the Number of Consistent Strings `Java` `C#` `C++`
 * (Medium) 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers `Java` `C#` `C++`
 * (Easy)   1704. Determine if String Halves Are Alike `Java` `C#`
 * (Medium) 1769. Minimum Number of Operations to Move All Balls to Each Box `Java` `C#` `C++`

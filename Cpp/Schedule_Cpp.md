@@ -88,4 +88,6 @@
 * 2022/04/19 (Tue.)
 	* (Medium) 2149. Rearrange Array Elements by Sign
 	* (Easy)   1662. Check If Two String Arrays are Equivalent
+* 2022/04/20 (Wed.)
+	* (Easy)   1684. Count the Number of Consistent Strings
 
