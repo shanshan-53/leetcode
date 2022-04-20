@@ -135,4 +135,5 @@
 	* (Easy)   1704. Determine if String Halves Are Alike
 * 2022/04/20 (Wed.)
 	* (Easy)   2000. Reverse Prefix of Word
+	* (Easy)   1370. Increasing Decreasing String
 

@@ -46,7 +46,7 @@ List
 * (Easy)   1309. Decrypt String from Alphabet to Integer Mapping `Java` `C#`
 * (Medium) 1347. Minimum Number of Steps to Make Two Strings Anagram `Java`
 * (Easy)   1365. How Many Numbers Are Smaller Than the Current Number `Java` `C#` `C++`
-* (Easy)   1370. Increasing Decreasing String `Java`
+* (Easy)   1370. Increasing Decreasing String `Java` `C#`
 * (Easy)   1436. Destination City `Java`
 * (Medium) 1817. Finding the Users Active Minutes `Java` `C#`
 * (Easy)   1832. Check if the Sentence Is Pangram `Java` `C#`
