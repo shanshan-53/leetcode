@@ -182,4 +182,5 @@ Record
 * 2022/04/20 (Wed.)
 	* (Easy)   0590. N-ary Tree Postorder Traversal
 	* (Easy)   2235. Add Two Integers
+	* (Easy)   2236. Root Equals Sum of Children
 
