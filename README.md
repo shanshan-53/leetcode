@@ -151,6 +151,9 @@ List
 * (Medium) 1557. Minimum Number of Vertices to Reach All Nodes `Java` `C#`
 * (Easy)   1791. Find Center of Star Graph `Java` `C#` `C++`
 
+#### Tree
+* (Easy)   0590. N-ary Tree Postorder Traversal `Java`
+
 #### Binary Search Tree
 * (Medium) 0102. Binary Tree Level Order Traversal `Java`
 * (MEdium) 0105. Construct Binary Tree from Preorder and Inorder Traversal `Java`

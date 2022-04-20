@@ -179,4 +179,6 @@ Record
 * 2022/04/19 (Tue.)
 	* (Easy)   0897. Increasing Order Search Tree
 	* (Medium) 0148. Sort List
+* 2022/04/20 (Wed.)
+	* (Easy)   0590. N-ary Tree Postorder Traversal
 
