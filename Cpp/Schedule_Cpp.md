@@ -90,4 +90,5 @@
 	* (Easy)   1662. Check If Two String Arrays are Equivalent
 * 2022/04/20 (Wed.)
 	* (Easy)   1684. Count the Number of Consistent Strings
+	* (Easy)   2103. Rings and Rods
 
