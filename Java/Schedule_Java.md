@@ -181,4 +181,5 @@ Record
 	* (Medium) 0148. Sort List
 * 2022/04/20 (Wed.)
 	* (Easy)   0590. N-ary Tree Postorder Traversal
+	* (Easy)   2235. Add Two Integers
 

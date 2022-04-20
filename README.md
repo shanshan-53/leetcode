@@ -103,6 +103,7 @@ List
 * (Easy)   1979. Find Greatest Common Divisor of Array `Java` `C#`
 * (Medium) 2079. Watering Plants `Java` `C#`
 * (Easy)   2119. A Number After a Double Reversal `Java`
+* (Easy)   2235. Add Two Integers `Java`
 
 #### Prefix Sum
 * (Easy)   1588. Sum of All Odd Length Subarrays `Java` `C#` `C++`
