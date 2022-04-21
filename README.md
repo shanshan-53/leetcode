@@ -22,7 +22,7 @@ List
 * (Easy)   1920. Build Array from Permutation `Java` `C#` `C++` `Python`
 * (Easy)   1929. Concatenation of Array `Java` `C#` `C++` `Python`
 * (Easy)   2006. Count Number of Pairs With Absolute Difference K `Java` `C#`
-* (Easy)   2011. Final Value of Variable After Performing Operations `Java` `C#` `C++`
+* (Easy)   2011. Final Value of Variable After Performing Operations `Java` `C#` `C++` `Python`
 * (Easy)   2114. Maximum Number of Words Found in Sentences `Java` `C#` `C++`
 * (Easy)   2149. Rearrange Array Elements by Sign `Java` `C#` `C++`
 * (Easy)   2176. Count Equal and Divisible Pairs in an Array `Java`
