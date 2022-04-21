@@ -91,4 +91,6 @@
 * 2022/04/20 (Wed.)
 	* (Easy)   1684. Count the Number of Consistent Strings
 	* (Easy)   2103. Rings and Rods
+* 2022/04/21 (Thu.)
+	* (Easy)   1832. Check if the Sentence Is Pangram
 

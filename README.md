@@ -49,7 +49,7 @@ List
 * (Easy)   1370. Increasing Decreasing String `Java` `C#`
 * (Easy)   1436. Destination City `Java`
 * (Medium) 1817. Finding the Users Active Minutes `Java` `C#`
-* (Easy)   1832. Check if the Sentence Is Pangram `Java` `C#`
+* (Easy)   1832. Check if the Sentence Is Pangram `Java` `C#` `C++`
 * (Easy)   1941. Check if All Characters Have Equal Number of Occurrences `Java`
 * (Easy)   2006. Count Number of Pairs With Absolute Difference K `Java` `C#` `C++`
 * (Easy)   2103. Rings and Rods `Java` `C#` `C++`
