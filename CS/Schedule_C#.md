@@ -136,4 +136,6 @@
 * 2022/04/20 (Wed.)
 	* (Easy)   2000. Reverse Prefix of Word
 	* (Easy)   1370. Increasing Decreasing String
+* 2022/04/21 (Thu.)
+	* (Easy)   0617. Merge Two Binary Trees
 
