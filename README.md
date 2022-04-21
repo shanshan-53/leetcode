@@ -108,6 +108,7 @@ List
 
 #### Prefix Sum
 * (Easy)   1588. Sum of All Odd Length Subarrays `Java` `C#` `C++`
+* (Medium) 1829. Maximum XOR for Each Query `Java`
 
 #### Dynamic Programing
 * (Medium) 0062. Unique Paths `Java`

@@ -184,4 +184,6 @@ Record
 	* (Easy)   2235. Add Two Integers
 	* (Easy)   2236. Root Equals Sum of Children
 	* (Easy)   2206. Divide Array Into Equal Pairs
+* 2022/04/21 (Thu.)
+	* (Medium) 1829. Maximum XOR for Each Query
 
