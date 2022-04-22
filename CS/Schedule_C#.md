@@ -138,4 +138,6 @@
 	* (Easy)   1370. Increasing Decreasing String
 * 2022/04/21 (Thu.)
 	* (Easy)   0617. Merge Two Binary Trees
+* 2022/04/22 (Fri.)
+	* (Easy)   2185. Counting Words With a Given Prefix
 
