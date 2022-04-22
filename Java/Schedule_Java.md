@@ -186,4 +186,6 @@ Record
 	* (Easy)   2206. Divide Array Into Equal Pairs
 * 2022/04/21 (Thu.)
 	* (Medium) 1829. Maximum XOR for Each Query
+* 2022/04/22 (Fri.)
+	* (Easy)   0589. N-ary Tree Preorder Traversal
 
