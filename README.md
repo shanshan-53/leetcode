@@ -96,7 +96,7 @@ List
 * (Easy)   1342. Number of Steps to Reduce a Number to Zero `Java` `C#` `C++`
 * (Medium) 1551. Minimum Operations to Make Array Equal `Java` `C#`
 * (Easy)   1688. Count of Matches in Tournament `Java` `C#` `C++`
-* (Easy)   1812. Determine Color of a Chessboard Square `Java`
+* (Easy)   1812. Determine Color of a Chessboard Square `Java` `C#`
 * (Medium) 1823. Find the Winner of the Circular Game `Java`
 * (Medium) 1828. Queries on Number of Points Inside a Circle `Java` `C#` `C++`
 * (Easy)   1827. Minimum Operations to Make the Array Increasing `Java` `C#`

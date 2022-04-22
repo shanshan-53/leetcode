@@ -140,4 +140,5 @@
 	* (Easy)   0617. Merge Two Binary Trees
 * 2022/04/22 (Fri.)
 	* (Easy)   2185. Counting Words With a Given Prefix
+	* (Easy)   1812. Determine Color of a Chessboard Square
 
