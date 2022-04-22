@@ -160,7 +160,8 @@ List
 
 #### Binary Search Tree
 * (Medium) 0102. Binary Tree Level Order Traversal `Java`
-* (MEdium) 0105. Construct Binary Tree from Preorder and Inorder Traversal `Java`
+* (Medium) 0103. Binary Tree Zigzag Level Order Traversal `Java`
+* (Medium) 0105. Construct Binary Tree from Preorder and Inorder Traversal `Java`
 * (Medium) 0230. Kth Smallest Element in a BST `Java`
 * (Easy)   0617. Merge Two Binary Trees `Java` `C#`
 * (Medium) 0654. Maximum Binary Tree `Java` `C#` `C++`
