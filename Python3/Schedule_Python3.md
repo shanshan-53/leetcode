@@ -8,4 +8,6 @@
 	* (Easy)   1672. Richest Customer Wealth
 * 2022/04/21 (Thu.)
 	* (Easy)   2011. Final Value of Variable After Performing Operations
+* 2022/04/22 (Fri.)
+	* (Easy)   1108. Defanging an IP Address
 

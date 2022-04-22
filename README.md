@@ -65,7 +65,7 @@ List
 * (Easy)   0771. Jewels and Stones `Java` `C#` `C++`
 * (Easy)   0804. Unique Morse Code Words `Java` `C#`
 * (Easy)   1021. Remove Outermost Parentheses `Java` `C#`
-* (Easy)   1108. Defanging an IP Address `Java` `C#` `C++`
+* (Easy)   1108. Defanging an IP Address `Java` `C#` `C++` `Python`
 * (Easy)   1221. Split a String in Balanced Strings `Java` `C#` `C++`
 * (Easy)   1374. Generate a String With Characters That Have Odd Counts `Java`
 * (Easy)   1528. Shuffle String `Java` `C#` `C++`
