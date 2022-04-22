@@ -23,7 +23,6 @@ List
 * (Easy)   1929. Concatenation of Array `Java` `C#` `C++` `Python`
 * (Easy)   2006. Count Number of Pairs With Absolute Difference K `Java` `C#`
 * (Easy)   2011. Final Value of Variable After Performing Operations `Java` `C#` `C++` `Python`
-* (Easy)   2114. Maximum Number of Words Found in Sentences `Java` `C#` `C++`
 * (Easy)   2149. Rearrange Array Elements by Sign `Java` `C#` `C++`
 * (Easy)   2176. Count Equal and Divisible Pairs in an Array `Java`
 
@@ -82,6 +81,7 @@ List
 * (Easy)   1967. Number of Strings That Appear as Substrings in Word `Java` `C#`
 * (Easy)   2000. Reverse Prefix of Word `Java` `C#`
 * (Easy)   2108. Find First Palindromic String in the Array `Java` `C#`
+* (Easy)   2114. Maximum Number of Words Found in Sentences `Java` `C#` `C++` `Python`
 * (Medium) 2120. Execution of All Suffix Instructions Staying in a Grid `Java` `C#`
 * (Easy)   2185. Counting Words With a Given Prefix `Java` `C#`
 * (Easy)   2194. Cells in a Range on an Excel Sheet `Java` `C#` `C++`
