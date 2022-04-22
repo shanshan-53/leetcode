@@ -134,6 +134,7 @@ List
 
 #### Two Pointer
 * (Medium) 0287. Find the Duplicate Number `Java`
+* (Easy)   0942. DI String Match `Java`
 * (Medium) 1877. Minimize Maximum Pair Sum in Array `Java`
 * (Medium) 2161. Partition Array According to Given Pivot `Java` `C#` `C++`
 

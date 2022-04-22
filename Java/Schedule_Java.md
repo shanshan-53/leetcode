@@ -189,4 +189,5 @@ Record
 * 2022/04/22 (Fri.)
 	* (Easy)   0589. N-ary Tree Preorder Traversal
 	* (Medium) 0103. Binary Tree Zigzag Level Order Traversal
+	* (Easy)   0942. DI String Match
 
