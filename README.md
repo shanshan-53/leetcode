@@ -123,6 +123,7 @@ List
 * (Medium) 0289. Game of Life `Java`
 * (Medium) 0807. Max Increase to Keep City Skyline `Java` `C#` `C++`
 * (Easy)   0832. Flipping an Image `Java` `C#`
+* (Medium) 1329. Sort the Matrix Diagonally `Java` `C#` `C++`
 * (Medium) 1605. Find Valid Matrix Given Row and Column Sums `Java` `C#`
 * (Medium) 2125. Number of Laser Beams in a Bank `Java` `C#` `C++`
 
@@ -139,7 +140,6 @@ List
 #### Sorting
 * (Medium) 0075. Sort Colors `Java`
 * (Medium) 0215. Kth Largest Element in an Array `Java`
-* (Medium) 1329. Sort the Matrix Diagonally `Java` `C#`
 * (Medium) 1561. Maximum Number of Coins You Can Get `Java` `C#`
 * (Medium) 1630. Arithmetic Subarrays `Java` `C#`
 * (Medium) 1637. Widest Vertical Area Between Two Points Containing No Points `Java` `C#` `C++`

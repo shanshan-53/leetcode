@@ -93,4 +93,6 @@
 	* (Easy)   2103. Rings and Rods
 * 2022/04/21 (Thu.)
 	* (Easy)   1832. Check if the Sentence Is Pangram
+* 2022/04/22 (Fri.)
+	* (Medium) 1329. Sort the Matrix Diagonally
 
