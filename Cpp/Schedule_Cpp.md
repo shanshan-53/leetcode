@@ -96,4 +96,6 @@
 * 2022/04/22 (Fri.)
 	* (Medium) 1329. Sort the Matrix Diagonally
 	* (Easy)   0709. To Lower Case
+* 2022/04/24 (Sun.)
+	* (Easy)   1816. Truncate Sentence
 
