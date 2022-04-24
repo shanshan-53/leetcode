@@ -179,7 +179,7 @@ List
 
 #### Design
 * (Medium) 0341. Flatten Nested List Iterator `Java`
-* (Medium) 1476. Subrectangle Queries `Java` `C#` `C++`
+* (Medium) 1476. Subrectangle Queries `Java` `C#` `C++` `Python3`
 * (Easy)   1603. Design Parking System `Java` `C#` `C++`
 * (Easy)   1656. Design an Ordered Stream `Java` `C#` `C++`
 

@@ -13,4 +13,6 @@
 	* (Easy)   2114. Maximum Number of Words Found in Sentences
 * 2022/04/23 (Sat.)
 	* (Easy)   1470. Shuffle the Array
+* 2022/04/24 (Sun.)
+	* (Medium) 1476. Subrectangle Queries
 
