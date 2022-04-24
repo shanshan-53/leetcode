@@ -10,19 +10,19 @@ List
 * (Easy)   1431. Kids With the Greatest Number of Candies `Java` `C#` `C++`
 * (Easy)   1450. Number of Students Doing Homework at a Given Time `Java`
 * (Easy)   1464. Maximum Product of Two Elements in an Array `Java` `C#`
-* (Easy)   1470. Shuffle the Array `Java` `C#` `C++`
-* (Easy)   1480. Running Sum of 1d Array `Java` `C#` `C++` `Python`
+* (Easy)   1470. Shuffle the Array `Java` `C#` `C++` `Python3`
+* (Easy)   1480. Running Sum of 1d Array `Java` `C#` `C++` `Python3`
 * (Easy)   1512. Number of Good Pairs `Java` `C#` `C++`
 * (Easy)   1534. Count Good Triplets `Java` `C#`
 * (Easy)   1588. Sum of All Odd Length Subarrays `Java` `C#`
-* (Easy)   1672. Richest Customer Wealth `Java` `C#` `C++` `Python`
+* (Easy)   1672. Richest Customer Wealth `Java` `C#` `C++` `Python3`
 * (Easy)   1725. Number Of Rectangles That Can Form The Largest Square `Java` `C#`
 * (Easy)   1732. Find the Highest Altitude `Java` `C#`
 * (Easy)   1773. Count Items Matching a Rule `Java` `C#` `C++`
-* (Easy)   1920. Build Array from Permutation `Java` `C#` `C++` `Python`
-* (Easy)   1929. Concatenation of Array `Java` `C#` `C++` `Python`
+* (Easy)   1920. Build Array from Permutation `Java` `C#` `C++` `Python3`
+* (Easy)   1929. Concatenation of Array `Java` `C#` `C++` `Python3`
 * (Easy)   2006. Count Number of Pairs With Absolute Difference K `Java` `C#`
-* (Easy)   2011. Final Value of Variable After Performing Operations `Java` `C#` `C++` `Python`
+* (Easy)   2011. Final Value of Variable After Performing Operations `Java` `C#` `C++` `Python3`
 * (Easy)   2149. Rearrange Array Elements by Sign `Java` `C#` `C++`
 * (Easy)   2176. Count Equal and Divisible Pairs in an Array `Java`
 
