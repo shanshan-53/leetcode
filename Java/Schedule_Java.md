@@ -190,4 +190,6 @@ Record
 	* (Easy)   0589. N-ary Tree Preorder Traversal
 	* (Medium) 0103. Binary Tree Zigzag Level Order Traversal
 	* (Easy)   0942. DI String Match
+* 2022/04/25 (Mon.)
+	* (Medium) 1261. Find Elements in a Contaminated Binary Tree
 
