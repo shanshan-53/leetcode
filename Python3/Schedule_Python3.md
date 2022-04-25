@@ -15,4 +15,6 @@
 	* (Easy)   1470. Shuffle the Array
 * 2022/04/24 (Sun.)
 	* (Medium) 1476. Subrectangle Queries
+* 2022/04/25 (Mon.)
+	* (Easy)   2160. Minimum Sum of Four Digit Number After Splitting Digits
 
