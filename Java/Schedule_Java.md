@@ -192,4 +192,5 @@ Record
 	* (Easy)   0942. DI String Match
 * 2022/04/25 (Mon.)
 	* (Medium) 1261. Find Elements in a Contaminated Binary Tree
+	* (Medium) 0380. Insert Delete GetRandom O(1)
 
