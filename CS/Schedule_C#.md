@@ -143,4 +143,6 @@
 	* (Easy)   1812. Determine Color of a Chessboard Square
 * 2022/04/24 (Sun.)
 	* (Easy)   1436. Destination City
+* 2022/04/25 (Mon.)
+	* (Easy)   1374. Generate a String With Characters That Have Odd Counts
 
