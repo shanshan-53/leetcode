@@ -98,4 +98,6 @@
 	* (Easy)   0709. To Lower Case
 * 2022/04/24 (Sun.)
 	* (Easy)   1816. Truncate Sentence
+* 2022/04/25 (Mon.)
+	* (Easy)   1913. Maximum Product Difference Between Two Pairs
 
