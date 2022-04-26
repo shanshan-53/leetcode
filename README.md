@@ -56,7 +56,7 @@ List
 * (Easy)   2206. Divide Array Into Equal Pairs `Java`
 
 #### Stack
-* (Medium) 0921. Minimum Add to Make Parentheses Valid `Java`
+* (Medium) 0921. Minimum Add to Make Parentheses Valid `Java` `C#`
 
 #### String
 * (Easy)   0557. Reverse Words in a String III `Java` `C#`
