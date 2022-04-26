@@ -100,4 +100,6 @@
 	* (Easy)   1816. Truncate Sentence
 * 2022/04/25 (Mon.)
 	* (Easy)   1913. Maximum Product Difference Between Two Pairs
+* 2022/04/26 (Tue.)
+	* (Medium) 0797. All Paths From Source to Target
 
