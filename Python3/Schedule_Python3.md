@@ -17,4 +17,6 @@
 	* (Medium) 1476. Subrectangle Queries
 * 2022/04/25 (Mon.)
 	* (Easy)   2160. Minimum Sum of Four Digit Number After Splitting Digits
+* 2022/04/26 (Tue.)
+	* (Easy)   1512. Number of Good Pairs
 

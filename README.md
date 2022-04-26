@@ -12,7 +12,7 @@ List
 * (Easy)   1464. Maximum Product of Two Elements in an Array `Java` `C#`
 * (Easy)   1470. Shuffle the Array `Java` `C#` `C++` `Python3`
 * (Easy)   1480. Running Sum of 1d Array `Java` `C#` `C++` `Python3`
-* (Easy)   1512. Number of Good Pairs `Java` `C#` `C++`
+* (Easy)   1512. Number of Good Pairs `Java` `C#` `C++` `Python3`
 * (Easy)   1534. Count Good Triplets `Java` `C#`
 * (Easy)   1588. Sum of All Odd Length Subarrays `Java` `C#`
 * (Easy)   1672. Richest Customer Wealth `Java` `C#` `C++` `Python3`
