@@ -193,4 +193,6 @@ Record
 * 2022/04/25 (Mon.)
 	* (Medium) 1261. Find Elements in a Contaminated Binary Tree
 	* (Medium) 0380. Insert Delete GetRandom O(1)
+* 2022/04/26 (Tue.)
+	* (Easy)   1768. Merge Strings Alternately
 
