@@ -129,6 +129,7 @@ List
 * (Medium) 2125. Number of Laser Beams in a Bank `Java` `C#` `C++`
 
 #### Bit Manipulation
+* (Easy)   2220. Minimum Bit Flips to Convert Number `Java`
 * (Easy)   1290. Convert Binary Number in a Linked List to Integer `Java` `C#` `C++`
 * (Easy)   1486. XOR Operation in an Array `Java` `C#` `C++`
 * (Easy)   1720. Decode XORed Array `Java` `C#` `C++`

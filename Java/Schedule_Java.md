@@ -195,4 +195,5 @@ Record
 	* (Medium) 0380. Insert Delete GetRandom O(1)
 * 2022/04/26 (Tue.)
 	* (Easy)   1768. Merge Strings Alternately
+	* (Easy)   2220. Minimum Bit Flips to Convert Number
 
