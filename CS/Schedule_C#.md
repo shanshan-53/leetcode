@@ -147,4 +147,6 @@
 	* (Easy)   1374. Generate a String With Characters That Have Odd Counts
 * 2022/04/26 (Tue.)
 	* (Medium) 0921. Minimum Add to Make Parentheses Valid
+* 2022/04/27 (Wed.)
+	* (Easy)   1295. Find Numbers with Even Number of Digits
 

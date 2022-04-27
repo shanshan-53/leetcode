@@ -4,7 +4,7 @@ List
 -
 #### Array
 * (Medium) 0384. Shuffle an Array `Java`
-* (Easy)   1295. Find Numbers with Even Number of Digits `Java`
+* (Easy)   1295. Find Numbers with Even Number of Digits `Java` `C#`
 * (Easy)   1313. Decompress Run-Length Encoded List `Java` `C#` `C++`
 * (Easy)   1389. Create Target Array in the Given Order `Java` `C#` `C++`
 * (Easy)   1431. Kids With the Greatest Number of Candies `Java` `C#` `C++`
