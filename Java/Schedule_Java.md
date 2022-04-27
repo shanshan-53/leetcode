@@ -199,4 +199,5 @@ Record
 * 2022/04/27 (Wed.)
 	* (Easy)   0561. Array Partition I
 	* (Easy)   1748. Sum of Unique Elements
+	* (Hard)   0041. First Missing Positive
 

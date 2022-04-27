@@ -37,6 +37,7 @@ List
 * (Medium) 2181. Merge Nodes in Between Zeros `Java` `C#` `C++`
 
 #### Hash Table
+* (Hard)   0041. First Missing Positive `Java`
 * (Medium) 0347. Top K Frequent Elements `Java`
 * (Medium) 0454. 4Sum II `Java`
 * (Medium) 0535. Encode and Decode TinyURL `Java` `C#` `C++`
