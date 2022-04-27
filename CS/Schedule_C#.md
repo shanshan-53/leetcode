@@ -149,4 +149,5 @@
 	* (Medium) 0921. Minimum Add to Make Parentheses Valid
 * 2022/04/27 (Wed.)
 	* (Easy)   1295. Find Numbers with Even Number of Digits
+	* (Easy)   1941. Check if All Characters Have Equal Number of Occurrences
 

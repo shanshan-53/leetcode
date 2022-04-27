@@ -50,7 +50,7 @@ List
 * (Easy)   1436. Destination City `Java` `C#`
 * (Medium) 1817. Finding the Users Active Minutes `Java` `C#` `C++`
 * (Easy)   1832. Check if the Sentence Is Pangram `Java` `C#` `C++`
-* (Easy)   1941. Check if All Characters Have Equal Number of Occurrences `Java`
+* (Easy)   1941. Check if All Characters Have Equal Number of Occurrences `Java` `C#`
 * (Easy)   2006. Count Number of Pairs With Absolute Difference K `Java` `C#` `C++`
 * (Easy)   2103. Rings and Rods `Java` `C#` `C++`
 * (Easy)   2176. Count Equal and Divisible Pairs in an Array `Java` `C#`
