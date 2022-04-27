@@ -102,4 +102,6 @@
 	* (Easy)   1913. Maximum Product Difference Between Two Pairs
 * 2022/04/26 (Tue.)
 	* (Medium) 0797. All Paths From Source to Target
+* 2022/04/27 (Wed.)
+	* (Medium) 1551. Minimum Operations to Make Array Equal
 

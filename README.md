@@ -95,7 +95,7 @@ List
 * (Easy)   1304. Find N Unique Integers Sum up to Zero `Java`
 * (Easy)   1323. Maximum 69 Number `Java` `C#`
 * (Easy)   1342. Number of Steps to Reduce a Number to Zero `Java` `C#` `C++`
-* (Medium) 1551. Minimum Operations to Make Array Equal `Java` `C#`
+* (Medium) 1551. Minimum Operations to Make Array Equal `Java` `C#` `C++`
 * (Easy)   1688. Count of Matches in Tournament `Java` `C#` `C++`
 * (Easy)   1812. Determine Color of a Chessboard Square `Java` `C#`
 * (Medium) 1823. Find the Winner of the Circular Game `Java`
