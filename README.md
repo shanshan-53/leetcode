@@ -48,6 +48,7 @@ List
 * (Easy)   1365. How Many Numbers Are Smaller Than the Current Number `Java` `C#` `C++`
 * (Easy)   1370. Increasing Decreasing String `Java` `C#`
 * (Easy)   1436. Destination City `Java` `C#`
+* (Easy)   1748. Sum of Unique Elements `Java`
 * (Medium) 1817. Finding the Users Active Minutes `Java` `C#` `C++`
 * (Easy)   1832. Check if the Sentence Is Pangram `Java` `C#` `C++`
 * (Easy)   1941. Check if All Characters Have Equal Number of Occurrences `Java` `C#`
