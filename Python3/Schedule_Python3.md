@@ -21,4 +21,5 @@
 	* (Easy)   1512. Number of Good Pairs
 * 2022/04/27 (Wed.)
 	* (Medium) 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
+	* (Easy)   1431. Kids With the Greatest Number of Candies
 
