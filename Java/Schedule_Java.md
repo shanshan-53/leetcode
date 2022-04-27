@@ -196,4 +196,6 @@ Record
 * 2022/04/26 (Tue.)
 	* (Easy)   1768. Merge Strings Alternately
 	* (Easy)   2220. Minimum Bit Flips to Convert Number
+* 2022/04/27 (Wed.)
+	* (Easy)   0561. Array Partition I
 
