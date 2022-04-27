@@ -19,4 +19,6 @@
 	* (Easy)   2160. Minimum Sum of Four Digit Number After Splitting Digits
 * 2022/04/26 (Tue.)
 	* (Easy)   1512. Number of Good Pairs
+* 2022/04/27 (Wed.)
+	* (Medium) 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers
 
