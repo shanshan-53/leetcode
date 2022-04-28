@@ -107,4 +107,5 @@
 	* (Medium) 1817. Finding the Users Active Minutes
 * 2022/04/28 (Thu.)
 	* (Medium) 1877. Minimize Maximum Pair Sum in Array
+	* (Easy)   1534. Count Good Triplets
 
