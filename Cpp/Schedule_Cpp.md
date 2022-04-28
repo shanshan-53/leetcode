@@ -105,4 +105,6 @@
 * 2022/04/27 (Wed.)
 	* (Medium) 1551. Minimum Operations to Make Array Equal
 	* (Medium) 1817. Finding the Users Active Minutes
+* 2022/04/28 (Thu.)
+	* (Medium) 1877. Minimize Maximum Pair Sum in Array
 
