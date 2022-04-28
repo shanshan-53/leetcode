@@ -24,4 +24,5 @@
 	* (Easy)   1431. Kids With the Greatest Number of Candies
 * 2022/04/28 (Thu.)
 	* (Easy)   0771. Jewels and Stones
+	* (Easy)   1603. Design Parking System
 
