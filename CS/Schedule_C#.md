@@ -152,4 +152,5 @@
 	* (Easy)   1941. Check if All Characters Have Equal Number of Occurrences
 * 2022/04/28 (Thu.)
 	* (Easy)   2119. A Number After a Double Reversal
+	* (Easy)   1304. Find N Unique Integers Sum up to Zero
 
