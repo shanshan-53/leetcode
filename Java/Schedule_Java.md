@@ -202,4 +202,5 @@ Record
 	* (Hard)   0041. First Missing Positive
 * 2022/04/28 (Thu.)
 	* (Easy)   0961. N-Repeated Element in Size 2N Array
+	* (Medium) 0055. Jump Game
 

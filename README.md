@@ -116,6 +116,7 @@ List
 * (Medium) 1829. Maximum XOR for Each Query `Java`
 
 #### Dynamic Programing
+* (Medium) 0055. Jump Game `Java`
 * (Medium) 0062. Unique Paths `Java`
 * (Medium) 0122. Best Time to Buy and Sell Stock II
 
