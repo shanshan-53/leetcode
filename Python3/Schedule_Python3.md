@@ -25,4 +25,6 @@
 * 2022/04/28 (Thu.)
 	* (Easy)   0771. Jewels and Stones
 	* (Easy)   1603. Design Parking System
+* 2022/04/29 (Fri.)
+	* (Medium) 2181. Merge Nodes in Between Zeros
 

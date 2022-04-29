@@ -34,7 +34,7 @@ List
 * (Medium) 0148. Sort List `Java`
 * (Mediun) 0328. Odd Even Linked List `Java`
 * (Medium) 2130. Maximum Twin Sum of a Linked List `Java` `C#` `C++`
-* (Medium) 2181. Merge Nodes in Between Zeros `Java` `C#` `C++`
+* (Medium) 2181. Merge Nodes in Between Zeros `Java` `C#` `C++` `Python3`
 
 #### Hash Table
 * (Hard)   0041. First Missing Positive `Java`
