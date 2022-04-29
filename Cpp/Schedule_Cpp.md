@@ -108,4 +108,5 @@
 * 2022/04/28 (Thu.)
 	* (Medium) 1877. Minimize Maximum Pair Sum in Array
 	* (Easy)   1534. Count Good Triplets
+	* (Medium) 2079. Watering Plants
 
