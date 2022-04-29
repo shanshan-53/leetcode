@@ -14,8 +14,11 @@ public:
                 plants[current] = 0;
             }
             else{
-                step += (current + 1);
+                step += (2*(current + 1));
+                /*
+		step += (current + 1);
                 current = -1;
+		*/
                 water = capacity;
             }
         }
