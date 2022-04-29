@@ -62,6 +62,9 @@ List
 #### Stack
 * (Medium) 0921. Minimum Add to Make Parentheses Valid `Java` `C#`
 
+#### Queue
+* (Medium) 0950. Reveal Cards In Increasing Order `Java`
+
 #### String
 * (Easy)   0557. Reverse Words in a String III `Java` `C#`
 * (Easy)   0709. To Lower Case `Java` `C#` `C++`
