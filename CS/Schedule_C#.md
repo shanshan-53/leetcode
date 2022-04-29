@@ -153,4 +153,6 @@
 * 2022/04/28 (Thu.)
 	* (Easy)   2119. A Number After a Double Reversal
 	* (Easy)   1304. Find N Unique Integers Sum up to Zero
+* 2022/04/29 (Fri.)
+	* (Easy)   0728. Self Dividing Numbers
 
