@@ -206,4 +206,6 @@ Record
 	* (Medium) 1381. Design a Stack With Increment Operation
 * 2022/04/29 (Fri.)
 	* (Medium) 0950. Reveal Cards In Increasing Order
+* 2022/05/06 (Fri.)
+	* (Easy)   0700. Search in a Binary Search Tree
 
