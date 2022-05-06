@@ -155,4 +155,6 @@
 	* (Easy)   1304. Find N Unique Integers Sum up to Zero
 * 2022/04/29 (Fri.)
 	* (Easy)   0728. Self Dividing Numbers
+* 2022/05/06 (Fri.)
+	* (Easy)   1450. Number of Students Doing Homework at a Given Time
 
