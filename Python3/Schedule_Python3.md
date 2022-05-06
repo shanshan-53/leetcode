@@ -29,4 +29,5 @@
 	* (Medium) 2181. Merge Nodes in Between Zeros
 * 2022/05/06 (Fri.)
 	* (Medium) 1828. Queries on Number of Points Inside a Circle
+	* (Easy)   1365. How Many Numbers Are Smaller Than the Current Number
 
