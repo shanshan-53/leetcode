@@ -27,4 +27,6 @@
 	* (Easy)   1603. Design Parking System
 * 2022/04/29 (Fri.)
 	* (Medium) 2181. Merge Nodes in Between Zeros
+* 2022/05/06 (Fri.)
+	* (Medium) 1828. Queries on Number of Points Inside a Circle
 
