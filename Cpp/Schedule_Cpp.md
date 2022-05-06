@@ -109,4 +109,6 @@
 	* (Medium) 1877. Minimize Maximum Pair Sum in Array
 	* (Easy)   1534. Count Good Triplets
 	* (Medium) 2079. Watering Plants
+* 2022/05/06 (Fri.)
+	* (Easy) 2176. Count Equal and Divisible Pairs in an Array
 

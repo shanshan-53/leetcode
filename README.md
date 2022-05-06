@@ -25,7 +25,6 @@ List
 * (Easy)   2006. Count Number of Pairs With Absolute Difference K `Java` `C#`
 * (Easy)   2011. Final Value of Variable After Performing Operations `Java` `C#` `C++` `Python3`
 * (Easy)   2149. Rearrange Array Elements by Sign `Java` `C#` `C++`
-* (Easy)   2176. Count Equal and Divisible Pairs in an Array `Java`
 
 #### List
 * (Medium) 1409. Queries on a Permutation With Key `Java` `C#` `C++`
@@ -56,7 +55,7 @@ List
 * (Easy)   1941. Check if All Characters Have Equal Number of Occurrences `Java` `C#`
 * (Easy)   2006. Count Number of Pairs With Absolute Difference K `Java` `C#` `C++`
 * (Easy)   2103. Rings and Rods `Java` `C#` `C++`
-* (Easy)   2176. Count Equal and Divisible Pairs in an Array `Java` `C#`
+* (Easy)   2176. Count Equal and Divisible Pairs in an Array `Java` `C#` `C++`
 * (Easy)   2206. Divide Array Into Equal Pairs `Java`
 
 #### Stack
