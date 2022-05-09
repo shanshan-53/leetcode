@@ -157,4 +157,6 @@
 	* (Easy)   0728. Self Dividing Numbers
 * 2022/05/06 (Fri.)
 	* (Easy)   1450. Number of Students Doing Homework at a Given Time
+* 2022/05/09 (Mon.)
+	* (Easy)   2206. Divide Array Into Equal Pairs
 
