@@ -159,4 +159,5 @@
 	* (Easy)   1450. Number of Students Doing Homework at a Given Time
 * 2022/05/09 (Mon.)
 	* (Easy)   2206. Divide Array Into Equal Pairs
+	* (Easy)   0700. Search in a Binary Search Tree
 
