@@ -211,4 +211,5 @@ Record
 * 2022/05/09 (Mon.)
 	* (Easy)   2169. Count Operations to Obtain Zero
 	* (Medium) 0098. Validate Binary Search Tree
+	* (Easy)   1475. Final Prices With a Special Discount in a Shop
 
