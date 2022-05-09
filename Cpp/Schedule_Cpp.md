@@ -110,5 +110,7 @@
 	* (Easy)   1534. Count Good Triplets
 	* (Medium) 2079. Watering Plants
 * 2022/05/06 (Fri.)
-	* (Easy) 2176. Count Equal and Divisible Pairs in an Array
+	* (Easy)   2176. Count Equal and Divisible Pairs in an Array
+* 2022/05/09 (Mon.)
+	* (Medium) 1382. Balance a Binary Search Tree
 

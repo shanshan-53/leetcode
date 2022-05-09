@@ -185,7 +185,7 @@ List
 * (Medium) 1305. All Elements in Two Binary Search Trees `Java` `C#`
 * (Medium) 1315. Sum of Nodes with Even-Valued Grandparent `Java` `C#` `C++`
 * (Medium) 1379. Find a Corresponding Node of a Binary Tree in a Clone of That Tree `Java` `C#` `C++`
-* (Medium) 1382. Balance a Binary Search Tree `Java` `C#`
+* (Medium) 1382. Balance a Binary Search Tree `Java` `C#` `C++`
 * (Easy)   2236. Root Equals Sum of Children `Java`
 
 #### Design
