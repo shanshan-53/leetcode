@@ -180,7 +180,7 @@ List
 * (Easy)   0700. Search in a Binary Search Tree `Java`
 * (Easy)   0897. Increasing Order Search Tree `Java`
 * (Easy)   0938. Range Sum of BST `Java` `C#` `C++`
-* (Medium) 1008. Construct Binary Search Tree from Preorder Traversal `Java` `C#`
+* (Medium) 1008. Construct Binary Search Tree from Preorder Traversal `Java` `C#` `C++`
 * (Medium) 1038. Binary Search Tree to Greater Sum Tree `Java` `C#` `C++`
 * (Medium) 1261. Find Elements in a Contaminated Binary Tree `Java`
 * (Medium) 1302. Deepest Leaves Sum `Java` `C#` `C++`

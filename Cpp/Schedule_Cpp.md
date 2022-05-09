@@ -113,4 +113,5 @@
 	* (Easy)   2176. Count Equal and Divisible Pairs in an Array
 * 2022/05/09 (Mon.)
 	* (Medium) 1382. Balance a Binary Search Tree
+	* (Medium) 1008. Construct Binary Search Tree from Preorder Traversal
 
