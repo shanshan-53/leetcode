@@ -208,4 +208,6 @@ Record
 	* (Medium) 0950. Reveal Cards In Increasing Order
 * 2022/05/06 (Fri.)
 	* (Easy)   0700. Search in a Binary Search Tree
+* 2022/05/09 (Mon.)
+	* (Easy)   2169. Count Operations to Obtain Zero
 

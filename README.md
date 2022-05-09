@@ -111,6 +111,7 @@ List
 * (Easy)   1979. Find Greatest Common Divisor of Array `Java` `C#`
 * (Medium) 2079. Watering Plants `Java` `C#` `C++`
 * (Easy)   2119. A Number After a Double Reversal `Java` `C#`
+* (Easy)   2169. Count Operations to Obtain Zero `Java`
 * (Easy)   2235. Add Two Integers `Java`
 
 #### Prefix Sum
