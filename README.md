@@ -170,6 +170,7 @@ List
 * (Easy)   0590. N-ary Tree Postorder Traversal `Java`
 
 #### Binary Search Tree
+* (Medium) 0098. Validate Binary Search Tree `Java`
 * (Medium) 0102. Binary Tree Level Order Traversal `Java`
 * (Medium) 0103. Binary Tree Zigzag Level Order Traversal `Java`
 * (Medium) 0105. Construct Binary Tree from Preorder and Inorder Traversal `Java`
