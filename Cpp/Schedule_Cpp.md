@@ -114,4 +114,6 @@
 * 2022/05/09 (Mon.)
 	* (Medium) 1382. Balance a Binary Search Tree
 	* (Medium) 1008. Construct Binary Search Tree from Preorder Traversal
+* 2022/05/10 (Tue.)
+	* (Easy)   1844. Replace All Digits with Characters
 

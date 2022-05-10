@@ -84,7 +84,7 @@ List
 * (Easy)   1768. Merge Strings Alternately `Java`
 * (Medium) 1769. Minimum Number of Operations to Move All Balls to Each Box `Java` `C#` `C++`
 * (Easy)   1816. Truncate Sentence `Java` `C#` `C++`
-* (Easy)   1844. Replace All Digits with Characters `Java` `C#`
+* (Easy)   1844. Replace All Digits with Characters `Java` `C#` `C++`
 * (Easy)   1859. Sorting the Sentence `Java` `C#` `C++`
 * (Easy)   1967. Number of Strings That Appear as Substrings in Word `Java` `C#`
 * (Easy)   2000. Reverse Prefix of Word `Java` `C#`
