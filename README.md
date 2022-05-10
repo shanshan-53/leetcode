@@ -141,7 +141,7 @@ List
 * (Easy)   2220. Minimum Bit Flips to Convert Number `Java`
 * (Easy)   1290. Convert Binary Number in a Linked List to Integer `Java` `C#` `C++`
 * (Easy)   1486. XOR Operation in an Array `Java` `C#` `C++`
-* (Easy)   1720. Decode XORed Array `Java` `C#` `C++`
+* (Easy)   1720. Decode XORed Array `Java` `C#` `C++` `Python3`
 
 #### Two Pointer
 * (Medium) 0287. Find the Duplicate Number `Java`

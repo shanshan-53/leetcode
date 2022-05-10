@@ -32,4 +32,6 @@
 	* (Easy)   1365. How Many Numbers Are Smaller Than the Current Number
 * 2022/05/09 (Mon.)
 	* (Easy)   1281. Subtract the Product and Sum of Digits of an Integer
+* 2022/05/10 (Tue.)
+	* (Easy)   1720. Decode XORed Array
 
