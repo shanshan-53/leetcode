@@ -212,4 +212,6 @@ Record
 	* (Easy)   2169. Count Operations to Obtain Zero
 	* (Medium) 0098. Validate Binary Search Tree
 	* (Easy)   1475. Final Prices With a Special Discount in a Shop
+* 2020/05/10 (Tue.)
+	* (easy)   1351. Count Negative Numbers in a Sorted Matrix
 

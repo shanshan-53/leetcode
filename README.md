@@ -134,6 +134,7 @@ List
 * (Medium) 0807. Max Increase to Keep City Skyline `Java` `C#` `C++`
 * (Easy)   0832. Flipping an Image `Java` `C#`
 * (Medium) 1329. Sort the Matrix Diagonally `Java` `C#` `C++`
+* (Easy)   1351. Count Negative Numbers in a Sorted Matrix `Java`
 * (Medium) 1605. Find Valid Matrix Given Row and Column Sums `Java` `C#`
 * (Medium) 2125. Number of Laser Beams in a Bank `Java` `C#` `C++`
 
