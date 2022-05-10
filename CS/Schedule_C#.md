@@ -160,4 +160,6 @@
 * 2022/05/09 (Mon.)
 	* (Easy)   2206. Divide Array Into Equal Pairs
 	* (Easy)   0700. Search in a Binary Search Tree
+* 2022/05/10 (Tue.)
+	* (Medium) 1347. Minimum Number of Steps to Make Two Strings Anagram
 
