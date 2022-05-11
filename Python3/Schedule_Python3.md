@@ -34,4 +34,6 @@
 	* (Easy)   1281. Subtract the Product and Sum of Digits of an Integer
 * 2022/05/10 (Tue.)
 	* (Easy)   1720. Decode XORed Array
+* 2022/05/11 (Wed.)
+	* (Easy)   1313. Decompress Run-Length Encoded List
 
