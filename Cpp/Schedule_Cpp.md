@@ -116,4 +116,6 @@
 	* (Medium) 1008. Construct Binary Search Tree from Preorder Traversal
 * 2022/05/10 (Tue.)
 	* (Easy)   1844. Replace All Digits with Characters
+* 2022/05/11 (Wed.)
+	* (Easy)   0804. Unique Morse Code Words
 

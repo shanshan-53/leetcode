@@ -69,7 +69,7 @@ List
 * (Easy)   0557. Reverse Words in a String III `Java` `C#`
 * (Easy)   0709. To Lower Case `Java` `C#` `C++`
 * (Easy)   0771. Jewels and Stones `Java` `C#` `C++` `Python3`
-* (Easy)   0804. Unique Morse Code Words `Java` `C#`
+* (Easy)   0804. Unique Morse Code Words `Java` `C#` `C++`
 * (Easy)   1021. Remove Outermost Parentheses `Java` `C#`
 * (Easy)   1108. Defanging an IP Address `Java` `C#` `C++` `Python`
 * (Easy)   1221. Split a String in Balanced Strings `Java` `C#` `C++`
