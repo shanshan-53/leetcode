@@ -217,4 +217,5 @@ Record
 	* (Hard)   0124. Binary Tree Maximum Path Sum
 * 2022/05/11 (Wed.) 
 	* (Medium) 1314. Matrix Block Sum
+	* (Hard)   0127. Word Ladder
 
