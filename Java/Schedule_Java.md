@@ -215,4 +215,6 @@ Record
 * 2020/05/10 (Tue.)
 	* (Easy)   1351. Count Negative Numbers in a Sorted Matrix
 	* (Hard)   0124. Binary Tree Maximum Path Sum
+* 2022/05/11 (Wed.) 
+	* (Medium) 1314. Matrix Block Sum
 

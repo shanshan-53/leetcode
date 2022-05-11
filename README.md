@@ -116,6 +116,7 @@ List
 * (Easy)   2235. Add Two Integers `Java`
 
 #### Prefix Sum
+* (Medium) 1314. Matrix Block Sum `Java`
 * (Easy)   1588. Sum of All Odd Length Subarrays `Java` `C#` `C++`
 * (Medium) 1829. Maximum XOR for Each Query `Java`
 
