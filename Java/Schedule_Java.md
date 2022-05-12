@@ -218,4 +218,6 @@ Record
 * 2022/05/11 (Wed.) 
 	* (Medium) 1314. Matrix Block Sum
 	* (Hard)   0127. Word Ladder
+* 2022/05/12 (Thu.)
+	* (Easy)   0657. Robot Return to Origin
 
