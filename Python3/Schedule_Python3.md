@@ -36,4 +36,6 @@
 	* (Easy)   1720. Decode XORed Array
 * 2022/05/11 (Wed.)
 	* (Easy)   1313. Decompress Run-Length Encoded List
+* 2022/05/12 (Thu.)
+	* (Easy)   1678. Goal Parser Interpretation
 
