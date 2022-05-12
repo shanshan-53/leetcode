@@ -118,4 +118,6 @@
 	* (Easy)   1844. Replace All Digits with Characters
 * 2022/05/11 (Wed.)
 	* (Easy)   0804. Unique Morse Code Words
+* 2022/05/12 (Thu.)
+	* (Easy)   1021. Remove Outermost Parentheses
 
