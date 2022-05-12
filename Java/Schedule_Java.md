@@ -220,4 +220,5 @@ Record
 	* (Hard)   0127. Word Ladder
 * 2022/05/12 (Thu.)
 	* (Easy)   0657. Robot Return to Origin
+	* (Medium) 0128. Longest Consecutive Sequence
 

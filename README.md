@@ -40,6 +40,7 @@ List
 #### Hash Table
 * (Hard)   0041. First Missing Positive `Java`
 * (Hard)   0127. Word Ladder `Java`
+* (Medium) 0128. Longest Consecutive Sequence `Java`
 * (Medium) 0347. Top K Frequent Elements `Java`
 * (Medium) 0454. 4Sum II `Java`
 * (Medium) 0535. Encode and Decode TinyURL `Java` `C#` `C++`
