@@ -38,4 +38,5 @@
 	* (Easy)   1313. Decompress Run-Length Encoded List
 * 2022/05/12 (Thu.)
 	* (Easy)   1678. Goal Parser Interpretation
+	* (Easy)   1528. Shuffle String
 

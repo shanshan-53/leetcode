@@ -78,7 +78,7 @@ List
 * (Easy)   1108. Defanging an IP Address `Java` `C#` `C++` `Python`
 * (Easy)   1221. Split a String in Balanced Strings `Java` `C#` `C++`
 * (Easy)   1374. Generate a String With Characters That Have Odd Counts `Java` `C#`
-* (Easy)   1528. Shuffle String `Java` `C#` `C++`
+* (Easy)   1528. Shuffle String `Java` `C#` `C++` `Python3`
 * (Easy)   1614. Maximum Nesting Depth of the Parentheses `Java` `C#` `C++`
 * (Easy)   1662. Check If Two String Arrays are Equivalent `Java` `C#` `C++`
 * (Easy)   1678. Goal Parser Interpretation `Java` `C#` `C++` `Python3`
