@@ -29,6 +29,7 @@ List
 
 #### List
 * (Medium) 1409. Queries on a Permutation With Key `Java` `C#` `C++`
+* (Medium) 1823. Find the Winner of the Circular Game `Java` `C#`
 
 #### Linked List
 * (Medium) 0148. Sort List `Java`
@@ -106,7 +107,6 @@ List
 * (Medium) 1551. Minimum Operations to Make Array Equal `Java` `C#` `C++`
 * (Easy)   1688. Count of Matches in Tournament `Java` `C#` `C++`
 * (Easy)   1812. Determine Color of a Chessboard Square `Java` `C#`
-* (Medium) 1823. Find the Winner of the Circular Game `Java`
 * (Medium) 1828. Queries on Number of Points Inside a Circle `Java` `C#` `C++` `Python3`
 * (Easy)   1827. Minimum Operations to Make the Array Increasing `Java` `C#`
 * (Easy)   1837. Sum of Digits in Base K `Java` `C#`

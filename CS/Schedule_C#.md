@@ -164,4 +164,6 @@
 	* (Medium) 1347. Minimum Number of Steps to Make Two Strings Anagram
 * 2022/05/11 (Wed.)
 	* (Easy)   1837. Sum of Digits in Base K
+* 2022/05/12 (Thu.)
+	* (Medium) 1823. Find the Winner of the Circular Game
 
