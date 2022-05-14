@@ -173,7 +173,7 @@ List
 
 #### Tree
 * (Easy)   0589. N-ary Tree Preorder Traversal `Java`
-* (Easy)   0590. N-ary Tree Postorder Traversal `Java`
+* (Easy)   0590. N-ary Tree Postorder Traversal `Java` `C#`
 
 #### Binary Search Tree
 * (Medium) 0098. Validate Binary Search Tree `Java`

@@ -166,4 +166,6 @@
 	* (Easy)   1837. Sum of Digits in Base K
 * 2022/05/12 (Thu.)
 	* (Medium) 1823. Find the Winner of the Circular Game
+* 2022/05/14 (Sat.)
+	* (Easy)   0590. N-ary Tree Postorder Traversal
 
