@@ -120,4 +120,6 @@
 	* (Easy)   0804. Unique Morse Code Words
 * 2022/05/12 (Thu.)
 	* (Easy)   1021. Remove Outermost Parentheses
+* 2022/05/14 (Sat.)
+	* (Easy)   0832. Flipping an Image
 

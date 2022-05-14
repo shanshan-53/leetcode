@@ -136,7 +136,7 @@ List
 * (Medium) 0073. Set Matrix Zeroes `Java`
 * (Medium) 0289. Game of Life `Java`
 * (Medium) 0807. Max Increase to Keep City Skyline `Java` `C#` `C++`
-* (Easy)   0832. Flipping an Image `Java` `C#`
+* (Easy)   0832. Flipping an Image `Java` `C#` `C++`
 * (Medium) 1329. Sort the Matrix Diagonally `Java` `C#` `C++`
 * (Easy)   1351. Count Negative Numbers in a Sorted Matrix `Java`
 * (Medium) 1605. Find Valid Matrix Given Row and Column Sums `Java` `C#`
