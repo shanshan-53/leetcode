@@ -185,6 +185,7 @@ List
 * (Easy)   0617. Merge Two Binary Trees `Java` `C#`
 * (Medium) 0654. Maximum Binary Tree `Java` `C#` `C++`
 * (Easy)   0700. Search in a Binary Search Tree `Java` `C#`
+* (Medium) 0701. Insert into a Binary Search Tree `Java`
 * (Easy)   0897. Increasing Order Search Tree `Java`
 * (Easy)   0938. Range Sum of BST `Java` `C#` `C++`
 * (Medium) 1008. Construct Binary Search Tree from Preorder Traversal `Java` `C#` `C++`

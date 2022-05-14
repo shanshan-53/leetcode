@@ -221,4 +221,6 @@ Record
 * 2022/05/12 (Thu.)
 	* (Easy)   0657. Robot Return to Origin
 	* (Medium) 0128. Longest Consecutive Sequence
+* 2022/05/14 (Sat.)
+	* (Medium) 0701. Insert into a Binary Search Tree
 
