@@ -86,7 +86,6 @@ List
 * (Medium) 1689. Partitioning Into Minimum Number Of Deci-Binary Numbers `Java` `C#` `C++` `Python3`
 * (Easy)   1704. Determine if String Halves Are Alike `Java` `C#`
 * (Easy)   1768. Merge Strings Alternately `Java`
-* (Medium) 1769. Minimum Number of Operations to Move All Balls to Each Box `Java` `C#` `C++`
 * (Easy)   1816. Truncate Sentence `Java` `C#` `C++`
 * (Easy)   1844. Replace All Digits with Characters `Java` `C#` `C++`
 * (Easy)   1859. Sorting the Sentence `Java` `C#` `C++`
@@ -107,7 +106,8 @@ List
 * (Easy)   1323. Maximum 69 Number `Java` `C#`
 * (Easy)   1342. Number of Steps to Reduce a Number to Zero `Java` `C#` `C++`
 * (Medium) 1551. Minimum Operations to Make Array Equal `Java` `C#` `C++`
-* (Easy)   1688. Count of Matches in Tournament `Java` `C#` `C++`
+* (Easy)   1688. Count of Matches in Tournament `Java` `C#` `C++
+* (Medium) 1769. Minimum Number of Operations to Move All Balls to Each Box `Java` `C#` `C++` `Python3``
 * (Easy)   1812. Determine Color of a Chessboard Square `Java` `C#`
 * (Medium) 1828. Queries on Number of Points Inside a Circle `Java` `C#` `C++` `Python3`
 * (Easy)   1827. Minimum Operations to Make the Array Increasing `Java` `C#`

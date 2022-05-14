@@ -39,4 +39,6 @@
 * 2022/05/12 (Thu.)
 	* (Easy)   1678. Goal Parser Interpretation
 	* (Easy)   1528. Shuffle String
+* 2022/05/14 (Sat.)
+	* (Medium) 1769. Minimum Number of Operations to Move All Balls to Each Box
 
