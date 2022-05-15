@@ -41,4 +41,6 @@
 	* (Easy)   1528. Shuffle String
 * 2022/05/14 (Sat.)
 	* (Medium) 1769. Minimum Number of Operations to Move All Balls to Each Box
+* 2022/05/15 (Sun.)
+	* (Medium) 1302. Deepest Leaves Sum
 
