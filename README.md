@@ -172,7 +172,7 @@ List
 * (Easy)   1791. Find Center of Star Graph `Java` `C#` `C++`
 
 #### Tree
-* (Easy)   0589. N-ary Tree Preorder Traversal `Java`
+* (Easy)   0589. N-ary Tree Preorder Traversal `Java` `C#`
 * (Easy)   0590. N-ary Tree Postorder Traversal `Java` `C#`
 
 #### Binary Search Tree
