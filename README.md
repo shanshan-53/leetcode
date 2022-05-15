@@ -126,7 +126,8 @@ List
 #### Dynamic Programing
 * (Medium) 0055. Jump Game `Java`
 * (Medium) 0062. Unique Paths `Java`
-* (Medium) 0122. Best Time to Buy and Sell Stock II
+* (Medium) 0122. Best Time to Buy and Sell Stock II `Java`
+* (Medium) 1641. Count Sorted Vowel Strings `Java`
 
 #### Recursion
 * (Medium) 0894. All Possible Full Binary Trees `Java`

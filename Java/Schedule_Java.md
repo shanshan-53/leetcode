@@ -223,4 +223,6 @@ Record
 	* (Medium) 0128. Longest Consecutive Sequence
 * 2022/05/14 (Sat.)
 	* (Medium) 0701. Insert into a Binary Search Tree
+* 2022/05/15 (Sun,)
+	* (Medium) 1641. Count Sorted Vowel Strings
 
