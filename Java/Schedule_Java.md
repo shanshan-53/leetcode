@@ -225,4 +225,6 @@ Record
 	* (Medium) 0701. Insert into a Binary Search Tree
 * 2022/05/15 (Sun,)
 	* (Medium) 1641. Count Sorted Vowel Strings
+* 2022/05/16 (Mon.)
+	* (Medium) 1472. Design Browser History
 

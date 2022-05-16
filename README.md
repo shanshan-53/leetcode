@@ -203,6 +203,7 @@ List
 * (Medium) 0341. Flatten Nested List Iterator `Java`
 * (Medium) 0380. Insert Delete GetRandom O(1) `Java`
 * (Medium) 1381. Design a Stack With Increment Operation `Java`
+* (Medium) 1472. Design Browser History `Java`
 * (Medium) 1476. Subrectangle Queries `Java` `C#` `C++` `Python3`
 * (Easy)   1603. Design Parking System `Java` `C#` `C++` `Python3`
 * (Easy)   1656. Design an Ordered Stream `Java` `C#` `C++`
