@@ -124,4 +124,6 @@
 	* (Easy)   0832. Flipping an Image
 * 2022/05/15 (Sun.)
 	* (Medium) 1305. All Elements in Two Binary Search Trees
+* 2022/05/16 (Mon.)
+	* (Easy)   2108. Find First Palindromic String in the Array
 

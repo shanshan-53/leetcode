@@ -91,7 +91,7 @@ List
 * (Easy)   1859. Sorting the Sentence `Java` `C#` `C++`
 * (Easy)   1967. Number of Strings That Appear as Substrings in Word `Java` `C#`
 * (Easy)   2000. Reverse Prefix of Word `Java` `C#`
-* (Easy)   2108. Find First Palindromic String in the Array `Java` `C#`
+* (Easy)   2108. Find First Palindromic String in the Array `Java` `C#` `C++`
 * (Easy)   2114. Maximum Number of Words Found in Sentences `Java` `C#` `C++` `Python`
 * (Medium) 2120. Execution of All Suffix Instructions Staying in a Grid `Java` `C#`
 * (Easy)   2185. Counting Words With a Given Prefix `Java` `C#`
