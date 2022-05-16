@@ -121,7 +121,7 @@ List
 #### Prefix Sum
 * (Medium) 1314. Matrix Block Sum `Java`
 * (Easy)   1588. Sum of All Odd Length Subarrays `Java` `C#` `C++`
-* (Medium) 1829. Maximum XOR for Each Query `Java`
+* (Medium) 1829. Maximum XOR for Each Query `Java` `C#`
 
 #### Dynamic Programing
 * (Medium) 0055. Jump Game `Java`

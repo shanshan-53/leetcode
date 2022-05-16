@@ -170,4 +170,6 @@
 	* (Easy)   0590. N-ary Tree Postorder Traversal
 * 2022/05/15 (Sun.)
 	* (Easy)   0589. N-ary Tree Preorder Traversal
+* 2022/05/16 (Mon.)
+	* (Medium) 1829. Maximum XOR for Each Query
 
