@@ -7,7 +7,6 @@ List
 * (Easy)   0561. Array Partition I `Java`
 * (Easy)   1295. Find Numbers with Even Number of Digits `Java` `C#`
 * (Easy)   1313. Decompress Run-Length Encoded List `Java` `C#` `C++` `Python3`
-* (Easy)   1389. Create Target Array in the Given Order `Java` `C#` `C++`
 * (Easy)   1431. Kids With the Greatest Number of Candies `Java` `C#` `C++` `Python3`
 * (Easy)   1450. Number of Students Doing Homework at a Given Time `Java` `C#`
 * (Easy)   1464. Maximum Product of Two Elements in an Array `Java` `C#`
@@ -28,6 +27,7 @@ List
 * (Easy)   2149. Rearrange Array Elements by Sign `Java` `C#` `C++`
 
 #### List
+* (Easy)   1389. Create Target Array in the Given Order `Java` `C#` `C++` `Python3`
 * (Medium) 1409. Queries on a Permutation With Key `Java` `C#` `C++`
 * (Medium) 1823. Find the Winner of the Circular Game `Java` `C#`
 

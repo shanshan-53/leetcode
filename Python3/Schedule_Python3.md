@@ -43,4 +43,6 @@
 	* (Medium) 1769. Minimum Number of Operations to Move All Balls to Each Box
 * 2022/05/15 (Sun.)
 	* (Medium) 1302. Deepest Leaves Sum
+* 2022/05/16 (Mon.)
+	* (Easy)   1389. Create Target Array in the Given Order
 
