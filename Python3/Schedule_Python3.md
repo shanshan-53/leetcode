@@ -45,4 +45,6 @@
 	* (Medium) 1302. Deepest Leaves Sum
 * 2022/05/16 (Mon.)
 	* (Easy)   1389. Create Target Array in the Given Order
+* 2022/05/17 (Tue.)
+	* (Easy)   2194. Cells in a Range on an Excel Sheet
 

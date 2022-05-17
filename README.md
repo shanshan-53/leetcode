@@ -95,7 +95,7 @@ List
 * (Easy)   2114. Maximum Number of Words Found in Sentences `Java` `C#` `C++` `Python`
 * (Medium) 2120. Execution of All Suffix Instructions Staying in a Grid `Java` `C#`
 * (Easy)   2185. Counting Words With a Given Prefix `Java` `C#`
-* (Easy)   2194. Cells in a Range on an Excel Sheet `Java` `C#` `C++`
+* (Easy)   2194. Cells in a Range on an Excel Sheet `Java` `C#` `C++` `Python3`
 
 #### Math
 * (Medium) 0238. Product of Array Except Self `Java`
