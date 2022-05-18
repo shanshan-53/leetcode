@@ -47,4 +47,6 @@
 	* (Easy)   1389. Create Target Array in the Given Order
 * 2022/05/17 (Tue.)
 	* (Easy)   2194. Cells in a Range on an Excel Sheet
+* 2022/05/18 (Wed.)
+	* (Easy)   1342. Number of Steps to Reduce a Number to Zero
 

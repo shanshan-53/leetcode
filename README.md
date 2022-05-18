@@ -104,7 +104,7 @@ List
 * (Easy)   1281. Subtract the Product and Sum of Digits of an Integer `Java` `C#` `C++` `Python3`
 * (Easy)   1304. Find N Unique Integers Sum up to Zero `Java` `C#`
 * (Easy)   1323. Maximum 69 Number `Java` `C#`
-* (Easy)   1342. Number of Steps to Reduce a Number to Zero `Java` `C#` `C++`
+* (Easy)   1342. Number of Steps to Reduce a Number to Zero `Java` `C#` `C++` `Python3`
 * (Medium) 1551. Minimum Operations to Make Array Equal `Java` `C#` `C++`
 * (Easy)   1688. Count of Matches in Tournament `Java` `C#` `C++
 * (Medium) 1769. Minimum Number of Operations to Move All Balls to Each Box `Java` `C#` `C++` `Python3``
