@@ -126,4 +126,6 @@
 	* (Medium) 1305. All Elements in Two Binary Search Trees
 * 2022/05/16 (Mon.)
 	* (Easy)   2108. Find First Palindromic String in the Array
+* 2022/05/18 (Wed.)
+	* (Easy)   1967. Number of Strings That Appear as Substrings in Word
 

@@ -89,7 +89,7 @@ List
 * (Easy)   1816. Truncate Sentence `Java` `C#` `C++`
 * (Easy)   1844. Replace All Digits with Characters `Java` `C#` `C++`
 * (Easy)   1859. Sorting the Sentence `Java` `C#` `C++`
-* (Easy)   1967. Number of Strings That Appear as Substrings in Word `Java` `C#`
+* (Easy)   1967. Number of Strings That Appear as Substrings in Word `Java` `C#` `C++`
 * (Easy)   2000. Reverse Prefix of Word `Java` `C#`
 * (Easy)   2108. Find First Palindromic String in the Array `Java` `C#` `C++`
 * (Easy)   2114. Maximum Number of Words Found in Sentences `Java` `C#` `C++` `Python`
