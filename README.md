@@ -44,7 +44,7 @@ List
 * (Medium) 0347. Top K Frequent Elements `Java`
 * (Medium) 0454. 4Sum II `Java`
 * (Medium) 0535. Encode and Decode TinyURL `Java` `C#` `C++`
-* (Medium) 0763. Partition Labels `Java`
+* (Medium) 0763. Partition Labels `Java` `C#`
 * (Easy)   0961. N-Repeated Element in Size 2N Arra `Java`y
 * (Easy)   1252. Cells with Odd Values in a Matrix `Java` `C#`
 * (Medium) 1282. Group the People Given the Group Size They Belong To `Java` `C#` `C++`

@@ -172,4 +172,6 @@
 	* (Easy)   0589. N-ary Tree Preorder Traversal
 * 2022/05/16 (Mon.)
 	* (Medium) 1829. Maximum XOR for Each Query
+* 2022/05/19 (Thu.)
+	* (Medium) 0763. Partition Labels
 
