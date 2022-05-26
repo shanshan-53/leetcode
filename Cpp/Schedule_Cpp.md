@@ -128,4 +128,6 @@
 	* (Easy)   2108. Find First Palindromic String in the Array
 * 2022/05/18 (Wed.)
 	* (Easy)   1967. Number of Strings That Appear as Substrings in Word
+* 2022/05/26 (Thu.)
+	* (Easy)   2194. Cells in a Range on an Excel Sheet
 
